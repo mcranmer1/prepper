@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE9F979C-BE73-4BB2-9ED9-7E34713DB329",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76440A53-0631-45A8-9C58-A4386D88C313",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A48F582-EE91-41E8-B374-7AC07B2F2FEB",
+    "height": 265,
+    "width": 330,
+    "x": 23,
+    "y": 482
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Recipe Card Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0450CA4E-1A32-4B10-B054-473831DCD27F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB5AD33C-D8FE-4D64-B9EF-1EA8B57FAA24",
+  "verticalSpacing": 0
+}

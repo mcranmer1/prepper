@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
+              "name": "Baskerville",
               "size": 14
             }
           },
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 124,
         "location": 0
       }
     ],
-    "string": "1hr"
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9646A356-2C48-4770-BA70-986EFDD1A8A7",
+  "do_objectID": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F8C2434A-772E-4BF3-AD7B-25FE0C1F8E73",
+    "do_objectID": "F8F83A21-5413-4393-BF45-0B2775CC643D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CD94107C-2002-44CD-A794-0DA51190479D",
-    "height": 23,
-    "width": 29,
-    "x": 188,
-    "y": 389
+    "do_objectID": "5B703335-8292-4FBC-B1CF-8DA7D57CCD87",
+    "height": 55,
+    "width": 283,
+    "x": 24,
+    "y": 172
   },
-  "glyphBounds": "{{2, 3}, {21, 11}}",
+  "glyphBounds": "{{0, 3}, {276, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "1hr",
+  "name": "Lorem ipsum dolor si",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8EFD1F0B-5794-413E-8AC2-F99D76EB1008",
+    "do_objectID": "39A22140-FC87-458E-84D1-FBF610FA5D6D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "23BD9833-FF98-4AE1-86DE-086799C2F2DA",
+      "do_objectID": "98EB2211-044F-47C6-A7E1-16147D2F478F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
+            "name": "Baskerville",
             "size": 14
           }
         },

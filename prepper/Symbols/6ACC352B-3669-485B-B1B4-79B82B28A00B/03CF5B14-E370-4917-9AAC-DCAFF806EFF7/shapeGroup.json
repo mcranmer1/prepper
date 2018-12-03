@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B6E4D25D-2BE3-41A9-9B70-0E8DA7572EFA",
+  "do_objectID": "03CF5B14-E370-4917-9AAC-DCAFF806EFF7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92.0561247582933,
-    "width": 109.7082174009968,
-    "x": 23,
-    "y": 159
+    "height": 132,
+    "width": 330,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,12 +30,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "01C70861-8EE5-4BA6-95D3-9B3EBE374CFF"
+      "class": "rectangle",
+      "id": "BF6C559B-0A12-4879-A35A-48BA08244F74"
     },
     {
       "class": "rectangle",
-      "id": "A22BE461-D9A9-4B67-B054-19898CE5BA4B"
+      "id": "69241A80-CCE8-4AED-BF8D-CE1E28C4AD08"
     }
   ],
   "name": "Combined Shape",
@@ -69,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9225127551020408,
-          "green": 0.9225127551020408,
-          "red": 0.9225127551020408
+          "blue": 0.6447969812925171,
+          "green": 0.6447969812925171,
+          "red": 0.6447969812925171
         },
         "fillType": 0,
         "isEnabled": true,

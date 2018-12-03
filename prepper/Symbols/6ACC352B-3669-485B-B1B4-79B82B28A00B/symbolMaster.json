@@ -1,0 +1,105 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "6ACC352B-3669-485B-B1B4-79B82B28A00B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 265,
+    "width": 330,
+    "x": 385,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E24B7898-0599-4215-872F-2DEDFB33CDDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03CF5B14-E370-4917-9AAC-DCAFF806EFF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6E4D25D-2BE3-41A9-9B70-0E8DA7572EFA"
+    },
+    {
+      "class": "text",
+      "id": "065405B4-8B7E-4F26-B20B-F7349B8DB78A"
+    },
+    {
+      "class": "text",
+      "id": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22"
+    },
+    {
+      "class": "text",
+      "id": "9646A356-2C48-4770-BA70-986EFDD1A8A7"
+    },
+    {
+      "class": "text",
+      "id": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5550B8E-39EB-4C7F-951D-FA9DC4E76EF7"
+    }
+  ],
+  "name": "Recipe Card",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB5AD33C-D8FE-4D64-B9EF-1EA8B57FAA24",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

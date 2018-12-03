@@ -83,32 +83,16 @@
       "id": "D92746E4-73D7-4C7F-8145-838CF073E92D"
     },
     {
-      "class": "rectangle",
-      "id": "E24B7898-0599-4215-872F-2DEDFB33CDDB"
+      "class": "symbolInstance",
+      "id": "BF06FD95-B256-4109-B2E5-3B6ED192BDB5"
     },
     {
-      "class": "shapeGroup",
-      "id": "03CF5B14-E370-4917-9AAC-DCAFF806EFF7"
+      "class": "symbolInstance",
+      "id": "EE9F979C-BE73-4BB2-9ED9-7E34713DB329"
     },
     {
-      "class": "shapeGroup",
-      "id": "B6E4D25D-2BE3-41A9-9B70-0E8DA7572EFA"
-    },
-    {
-      "class": "text",
-      "id": "065405B4-8B7E-4F26-B20B-F7349B8DB78A"
-    },
-    {
-      "class": "text",
-      "id": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22"
-    },
-    {
-      "class": "text",
-      "id": "9646A356-2C48-4770-BA70-986EFDD1A8A7"
-    },
-    {
-      "class": "text",
-      "id": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370"
+      "class": "symbolInstance",
+      "id": "02275471-AFBF-48BF-BF84-B463A9994A5A"
     }
   ],
   "name": "iPhone XS Copy",
