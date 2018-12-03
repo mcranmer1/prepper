@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "B488343D-3E15-4F9F-ABCD-AF154EB8E522",
+  "do_objectID": "C920C95D-6A28-4A8F-9777-B3EB599E25A9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": 251,
-    "y": 10
+    "height": 46,
+    "width": 46,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,38 +46,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "838EBE5D-ED43-41F2-920B-E513409D332A"
+      "class": "oval",
+      "id": "34A865F8-1D02-4A91-9F22-16462313769C"
     },
     {
-      "class": "text",
-      "id": "ABD10196-7B57-474A-A4C5-427FA1117BDD"
+      "class": "shapePath",
+      "id": "6AD06F12-A2B0-4DCC-A81F-C46664C5F124"
     },
     {
-      "class": "symbolInstance",
-      "id": "7BD95EC7-AF01-4C18-9BC4-AF1B6DF7D3D7"
+      "class": "shapePath",
+      "id": "531A585F-8941-47F8-B170-A05E314879D7"
     },
     {
-      "class": "rectangle",
-      "id": "755D4ADC-1B0E-4DA8-8C77-FE950F963631"
-    },
-    {
-      "class": "text",
-      "id": "A3A08C6F-30EC-46B0-B37E-E1AE523EA445"
+      "class": "shapePath",
+      "id": "62411CFC-417F-4C60-99FC-AD0637D61D1F"
     }
   ],
-  "name": "iPhone XS",
+  "name": "Back Arrow",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,6 +79,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "D34C5483-09D3-48B4-93DF-89A31545A558",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

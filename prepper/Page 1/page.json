@@ -42,7 +42,43 @@
     },
     {
       "class": "artboard",
+      "id": "43DA5BE9-6863-489D-9F4F-50EABF70AA77"
+    },
+    {
+      "class": "artboard",
       "id": "304493F7-FCC4-46E9-9164-42DBB946F9E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "A39F505D-4753-4E92-9262-1F13A0CA5A45"
+    },
+    {
+      "class": "rectangle",
+      "id": "89AABC5E-D158-46E4-9AB4-361E2DF9C987"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4A46085-2AB0-4B4A-8D98-2964599DA923"
+    },
+    {
+      "class": "rectangle",
+      "id": "809A04B2-E0C6-4411-B531-A478FD3609FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "704DC623-AEFE-4353-B93B-72AB851D802E"
+    },
+    {
+      "class": "rectangle",
+      "id": "9224A59F-5AA1-4DB8-9743-2264D7960E4E"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DC431D2-8F91-4885-8FDC-C94447B8F2C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E2757E1-25A3-4FA7-ACFF-E5EE8DE6B393"
     }
   ],
   "name": "Page 1",
