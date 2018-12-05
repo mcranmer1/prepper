@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AmaticSC-Regular",
-              "size": 50
+              "name": "LucidaGrande",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "prepper"
+    "string": "Part One"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "31CAA841-C699-44F4-B4A4-13CA82C827C5",
+  "do_objectID": "7D00B513-7307-43F6-AF6F-53A2B9E7BEFA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6F0B5E80-5968-4551-9CF8-9BCE3B028403",
+    "do_objectID": "BD4746B9-222D-4DFC-9DD5-A5C7F148B7AE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0418DA53-9A6C-406E-8E9C-7B0AF04EEB77",
-    "height": 58,
-    "width": 220,
-    "x": 78,
-    "y": 6
+    "do_objectID": "CE47683E-0CDB-4180-A80B-5431CA2F9F80",
+    "height": 23,
+    "width": 112,
+    "x": 13,
+    "y": 93
   },
-  "glyphBounds": "{{66, 17}, {90, 35}}",
+  "glyphBounds": "{{16, 4}, {81, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "prepper",
+  "name": "Part One",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AD2A8271-A8BD-4281-9AF2-722EDE0DF752",
+    "do_objectID": "3D0B3165-F896-4DE3-9DEA-5EB3FD65A9D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FD9C0D9E-0C37-4526-80F1-EAB793D67BBD",
+      "do_objectID": "4C0317B8-9F69-44C7-94A3-548C2FCDDB11",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AmaticSC-Regular",
-            "size": 50
+            "name": "LucidaGrande",
+            "size": 20
           }
         },
         "paragraphStyle": {
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

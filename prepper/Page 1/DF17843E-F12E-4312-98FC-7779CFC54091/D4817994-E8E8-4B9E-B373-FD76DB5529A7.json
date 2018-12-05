@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "02275471-AFBF-48BF-BF84-B463A9994A5A",
+  "do_objectID": "D4817994-E8E8-4B9E-B373-FD76DB5529A7",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9522C34B-E02E-46CE-A1D2-B2B5E32FB459",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 38,
-    "x": 23,
-    "y": 155
+    "do_objectID": "730462E9-331E-4D19-AF39-36EA8051B5CA",
+    "height": 78,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Filter",
+  "name": "NavBar1 Copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6711D7D3-D162-4C5E-B45E-AE224A7C45F3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7B87AD78-DFF3-46B4-BDEF-C2FBF01B7E0B",
+  "symbolID": "75C44522-5CA1-4CCF-B672-2A99664B847C",
   "verticalSpacing": 0
 }

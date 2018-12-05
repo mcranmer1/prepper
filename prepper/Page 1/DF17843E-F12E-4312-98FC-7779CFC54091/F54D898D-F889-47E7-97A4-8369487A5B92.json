@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 18
+              "name": "LucidaGrande",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 104,
         "location": 0
       }
     ],
-    "string": "Don’t have an account?"
+    "string": "In order to create a personalized meal prep plan please answer the questions as accurately as possible. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "925B2092-90BE-44E3-A245-58D8BDB6FF4C",
+  "do_objectID": "F54D898D-F889-47E7-97A4-8369487A5B92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 209,
-    "x": 83,
-    "y": 538
+    "height": 56,
+    "width": 319,
+    "x": 28,
+    "y": 172
   },
-  "glyphBounds": "{{13, 4}, {182, 15}}",
+  "glyphBounds": "{{11, 2}, {297, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Don’t have an accoun",
+  "name": "In order to create a",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,22 +71,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -103,8 +87,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 18
+            "name": "LucidaGrande",
+            "size": 16
           }
         },
         "paragraphStyle": {

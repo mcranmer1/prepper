@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "671356E5-6395-4FB2-9636-3124081360BA",
+    "do_objectID": "A67F990A-06A2-43E8-80D8-15ACAC06130C",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "43DA5BE9-6863-489D-9F4F-50EABF70AA77",
+  "do_objectID": "DF17843E-F12E-4312-98FC-7779CFC54091",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B4108EBD-17B4-40C3-BAE5-C2F9798153E6",
+    "do_objectID": "47CF34F2-33A7-4308-93BE-229DA9755AE7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D92F941F-BA7B-4F54-927F-2C77A63E1D29",
+    "do_objectID": "86A68E7A-D4F2-4623-B6C6-6BFD189E548E",
     "height": 812,
     "width": 375,
-    "x": 251,
-    "y": 898
+    "x": 206,
+    "y": 10
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "75B1EC65-2C0E-409B-85C7-0D0581A4413A",
+    "do_objectID": "88212B24-E967-4B22-9C06-53070FA402B5",
     "guides": [
     ]
   },
@@ -51,44 +51,64 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "62CFA563-5235-41FA-A72E-231D87FB1A67"
-    },
-    {
-      "class": "text",
-      "id": "63167719-6756-4BC7-97D4-05C36F954BFB"
-    },
-    {
-      "class": "text",
-      "id": "5C8EC981-B87A-42B1-B1EE-291952CC2555"
-    },
-    {
-      "class": "text",
-      "id": "7789CF3E-3FD9-4591-975C-1F9777C149C1"
+      "class": "symbolInstance",
+      "id": "D4817994-E8E8-4B9E-B373-FD76DB5529A7"
     },
     {
       "class": "rectangle",
-      "id": "D92746E4-73D7-4C7F-8145-838CF073E92D"
+      "id": "8C27B90C-6A9D-412F-9F18-1F828CC5FA27"
+    },
+    {
+      "class": "text",
+      "id": "7D00B513-7307-43F6-AF6F-53A2B9E7BEFA"
+    },
+    {
+      "class": "text",
+      "id": "2E733F66-6DC3-486C-BF02-9D1934484E53"
+    },
+    {
+      "class": "text",
+      "id": "2574FD1B-E4B5-4B94-AD00-19EB1CC39427"
+    },
+    {
+      "class": "rectangle",
+      "id": "7DE41AC2-664E-4FB2-8CD2-F2E1F7DAE8FD"
+    },
+    {
+      "class": "text",
+      "id": "F54D898D-F889-47E7-97A4-8369487A5B92"
     },
     {
       "class": "symbolInstance",
-      "id": "BF06FD95-B256-4109-B2E5-3B6ED192BDB5"
+      "id": "1214036E-27CC-4013-B3A2-536972F3C96B"
     },
     {
       "class": "symbolInstance",
-      "id": "EE9F979C-BE73-4BB2-9ED9-7E34713DB329"
+      "id": "56A1FAD7-B611-4244-9FCC-3CBA63F8E384"
     },
     {
       "class": "symbolInstance",
-      "id": "02275471-AFBF-48BF-BF84-B463A9994A5A"
+      "id": "75684064-555D-4EFB-9395-D6A20018508A"
     },
     {
       "class": "symbolInstance",
-      "id": "9B3FB9E6-C153-4E48-874E-6B186089C993"
+      "id": "EC13FD55-78C4-4208-A0F3-0B832BBB49EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "640B469B-64B1-4900-9BD9-CC8FE7EEBD3E"
+    },
+    {
+      "class": "text",
+      "id": "D4DCFE68-840D-4DF7-9EE0-CFC26A2B93DC"
+    },
+    {
+      "class": "text",
+      "id": "65BC45B3-97F4-4F7C-A53D-D4657BF5C866"
     }
   ],
-  "name": "iPhone XS Copy",
-  "nameIsFixed": false,
+  "name": "MainPage Copy",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,
@@ -103,7 +123,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "0964B758-ED8A-4895-B9A9-1CBEA2F7591F",
+    "do_objectID": "020C14EA-8DAA-4BCE-8D0C-089319E1C5C3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -112,7 +132,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "57D4AE03-0508-46A1-A296-772394DE9EBB",
+    "do_objectID": "34E53607-7F33-4FE5-BD8F-CB37DD74433D",
     "guides": [
     ]
   }

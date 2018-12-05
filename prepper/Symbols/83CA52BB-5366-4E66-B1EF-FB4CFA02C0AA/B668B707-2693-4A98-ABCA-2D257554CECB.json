@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C577B2DE-6CFB-45B5-B6DA-5844641F4C89",
+  "do_objectID": "B668B707-2693-4A98-ABCA-2D257554CECB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "978F7BE4-AD97-42F1-96FB-AE21848F7219",
+    "do_objectID": "39D2EB5F-845D-4BD5-BA79-2CE0D5D52853",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C30FD2F2-9FD9-4BB5-BB17-A7681871D039",
-    "height": 46,
-    "width": 46,
-    "x": 14,
-    "y": 16
+    "do_objectID": "6D783E10-B9CF-4253-A9B5-F31F853912D2",
+    "height": 66,
+    "width": 318,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Back Arrow",
+  "name": "LargeInputs Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "699DF7B4-B1CE-4A47-9485-649197D56660",
+      "overrideName": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
+      "value": "Age"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFAACB11-6203-4C1F-BB40-12974EA401F6",
+      "overrideName": "B0848BB8-9123-4B48-BE90-C662FE241A17_stringValue",
+      "value": "Choose an Option"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "87F34743-A0C9-4E96-9763-3B91DD69009A",
+    "do_objectID": "A2366FC7-5C6C-4CCE-AF8B-96C337DA8D8C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D34C5483-09D3-48B4-93DF-89A31545A558",
+  "symbolID": "3B068A3E-7618-4075-B6EB-67D91D12D081",
   "verticalSpacing": 0
 }

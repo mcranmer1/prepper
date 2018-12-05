@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "02275471-AFBF-48BF-BF84-B463A9994A5A",
+  "do_objectID": "56A1FAD7-B611-4244-9FCC-3CBA63F8E384",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "925832D8-01EC-490F-9260-9470834202DD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 38,
-    "x": 23,
-    "y": 155
+    "do_objectID": "608799CF-C754-4C5C-A4DB-7DE463C2ECC8",
+    "height": 66,
+    "width": 318,
+    "x": 29,
+    "y": 517
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Filter",
+  "name": "LargeInputs Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "699DF7B4-B1CE-4A47-9485-649197D56660",
+      "overrideName": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
+      "value": "Height"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BFE8472-43B8-43A4-9825-D07D72B64FA8",
+      "overrideName": "B0848BB8-9123-4B48-BE90-C662FE241A17_stringValue",
+      "value": "Insert Weight"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EF429567-5961-45FA-B128-5CFE76703AF5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7B87AD78-DFF3-46B4-BDEF-C2FBF01B7E0B",
+  "symbolID": "3B068A3E-7618-4075-B6EB-67D91D12D081",
   "verticalSpacing": 0
 }

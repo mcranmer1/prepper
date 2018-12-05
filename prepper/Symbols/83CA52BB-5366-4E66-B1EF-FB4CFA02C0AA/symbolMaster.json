@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "5FDB30DE-1EBD-4A73-88F0-F08AF64FCB9D",
+  "do_objectID": "83CA52BB-5366-4E66-B1EF-FB4CFA02C0AA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,66 +23,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 66,
+    "width": 318,
+    "x": 1428,
+    "y": 166
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -367,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "C920C95D-6A28-4A8F-9777-B3EB599E25A9"
+      "class": "symbolInstance",
+      "id": "B668B707-2693-4A98-ABCA-2D257554CECB"
     },
     {
-      "class": "symbolMaster",
-      "id": "DC4380E2-79D9-45D0-9EEE-5AAB325BF8F7"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "6ACC352B-3669-485B-B1B4-79B82B28A00B"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7AD8497C-E253-4756-8C6E-1D1962EDDA67"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "89BA5075-BA98-4B48-A923-E7A8BBDE2446"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "19D9954E-0880-4FC4-BC19-6BC063FBF4BD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F76AA8EF-6FE8-4810-89AC-D74BFF8B27B9"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "83CA52BB-5366-4E66-B1EF-FB4CFA02C0AA"
+      "class": "triangle",
+      "id": "5392E32C-AB6F-4E10-9DFA-0B0ABED1759C"
     }
   ],
-  "name": "Symbols",
+  "name": "InputDropDown",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -82,9 +71,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "0E65CA8C-7E1D-4ECB-AA41-BCFD616BAB73",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -350,
+    "base": 0,
     "guides": [
     ]
   }

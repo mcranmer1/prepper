@@ -1,8 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "triangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE1F31CE-DE68-4C18-AB2D-D22D49C64FA6",
+  "do_objectID": "5392E32C-AB6F-4E10-9DFA-0B0ABED1759C",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,47 +13,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 226,
-    "x": 75,
-    "y": 269
+    "height": 9,
+    "width": 15,
+    "x": 284,
+    "y": 44
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isEquilateral": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Triangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
+      "curveFrom": "{0.5, 0}",
       "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveTo": "{0.5, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
@@ -78,7 +67,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -180,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -94,7 +83,7 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
@@ -105,9 +94,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

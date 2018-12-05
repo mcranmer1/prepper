@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 18
+              "name": "LucidaGrande",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Don’t have an account?"
+    "string": "Part Two"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "925B2092-90BE-44E3-A245-58D8BDB6FF4C",
+  "do_objectID": "2E733F66-6DC3-486C-BF02-9D1934484E53",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ECA9E145-94C5-4553-BB6E-F0725F11B0F0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 209,
-    "x": 83,
-    "y": 538
+    "do_objectID": "F571CBF9-E195-4F9E-9A7B-766DA042180E",
+    "height": 23,
+    "width": 112,
+    "x": 132,
+    "y": 93
   },
-  "glyphBounds": "{{13, 4}, {182, 15}}",
+  "glyphBounds": "{{15, 4}, {83, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Don’t have an accoun",
+  "name": "Part Two",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,27 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
+    "do_objectID": "503D9AE4-5626-41EF-B8DA-ADD3E793F4B5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "3CC7018D-8BEA-4EA2-9CF0-D2B6D52E1AEB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 18
+            "name": "LucidaGrande",
+            "size": 20
           }
         },
         "paragraphStyle": {
@@ -117,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 251,
-    "y": 10
+    "x": -236,
+    "y": 898
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,16 +47,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "838EBE5D-ED43-41F2-920B-E513409D332A"
-    },
-    {
-      "class": "text",
-      "id": "ABD10196-7B57-474A-A4C5-427FA1117BDD"
-    },
-    {
       "class": "symbolInstance",
-      "id": "7BD95EC7-AF01-4C18-9BC4-AF1B6DF7D3D7"
+      "id": "13BD5FCD-4A04-4807-AB91-FE92249F3E2B"
     },
     {
       "class": "rectangle",

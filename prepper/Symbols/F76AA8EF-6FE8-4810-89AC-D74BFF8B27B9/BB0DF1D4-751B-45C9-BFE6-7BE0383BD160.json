@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE1F31CE-DE68-4C18-AB2D-D22D49C64FA6",
+  "do_objectID": "BB0DF1D4-751B-45C9-BFE6-7BE0383BD160",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B3EAC6B8-BC17-4AB2-A956-98DF0A0C65BB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,10 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "231C6515-7B48-4796-A83B-38A7E316694C",
     "height": 40,
-    "width": 226,
-    "x": 75,
-    "y": 269
+    "width": 318,
+    "x": 0,
+    "y": 26
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "AE64D04C-4BEF-435F-8F3F-E29ED9B22150",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.7427721088435374,
+          "green": 0.7427721088435374,
+          "red": 0.7427721088435374
         },
         "fillType": 0,
         "isEnabled": true,
@@ -115,6 +118,28 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
       }
     ],
     "miterLimit": 10,

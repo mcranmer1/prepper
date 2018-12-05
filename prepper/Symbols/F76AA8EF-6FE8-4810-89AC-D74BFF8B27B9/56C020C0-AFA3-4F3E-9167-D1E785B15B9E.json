@@ -16,29 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
+              "name": "LucidaGrande-Bold",
               "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Don’t have an account?"
+    "string": "Login"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "925B2092-90BE-44E3-A245-58D8BDB6FF4C",
+  "do_objectID": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EBC8DBC3-DE3E-4738-9972-3D21C74E4146",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 209,
-    "x": 83,
-    "y": 538
+    "do_objectID": "EF9A1475-5EA3-4D56-AFFE-8422E9A3D1EA",
+    "height": 21,
+    "width": 108,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{13, 4}, {182, 15}}",
+  "glyphBounds": "{{1, 3}, {49, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Don’t have an accoun",
+  "name": "Login Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,27 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
+    "do_objectID": "431E0D2B-53DF-4A11-B105-2FD366BF1B26",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "1ED97C4E-827F-4152-BF7A-5E2362B18DCE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,13 +91,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
+            "name": "LucidaGrande-Bold",
             "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -117,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
