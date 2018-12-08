@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "C920C95D-6A28-4A8F-9777-B3EB599E25A9",
+  "do_objectID": "AAC69AF4-51F9-4938-86D5-27113A34040A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46,
-    "width": 46,
-    "x": 100,
+    "height": 21,
+    "width": 75,
+    "x": 1846,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,22 +46,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
-      "id": "6AD06F12-A2B0-4DCC-A81F-C46664C5F124"
+      "id": "344519B1-842B-4BB3-9E99-FF624BDA74D6"
     },
     {
       "class": "shapePath",
-      "id": "531A585F-8941-47F8-B170-A05E314879D7"
+      "id": "505920B8-6108-40BD-A617-4BBB370E1476"
     },
     {
       "class": "shapePath",
-      "id": "62411CFC-417F-4C60-99FC-AD0637D61D1F"
+      "id": "00033D7A-6809-468E-B6C7-3A22DA3ED85A"
+    },
+    {
+      "class": "text",
+      "id": "FCE586D0-C196-48E3-9CCC-D7E47D0CB7B6"
     }
   ],
-  "name": "Back Arrow",
+  "name": "NextButton",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -75,7 +79,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D34C5483-09D3-48B4-93DF-89A31545A558",
+  "symbolID": "A5A61D45-6212-41E7-AB43-7D852909F432",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

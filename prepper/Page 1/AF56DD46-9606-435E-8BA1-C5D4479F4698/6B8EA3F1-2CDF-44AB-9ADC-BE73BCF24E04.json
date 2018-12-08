@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "62228228-8A91-49E4-BD8E-E6088977A63E",
+  "do_objectID": "6B8EA3F1-2CDF-44AB-9ADC-BE73BCF24E04",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9629091-4DA2-41CE-881E-52FE9A4956DA",
+    "do_objectID": "01106C30-30CC-4160-A69C-BBF965F18864",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D6C48864-19F7-4D33-979A-74EA998BC240",
+    "do_objectID": "77D60A7E-E8C6-4C8A-8D70-C67274E35473",
     "height": 66,
     "width": 318,
     "x": 29,
-    "y": 349
+    "y": 517
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "InputDropDown",
+  "name": "LargeInputs Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3A3C0143-C676-48C3-B471-07AD900D5F0B",
-      "overrideName": "B668B707-2693-4A98-ABCA-2D257554CECB/56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
-      "value": "Diet"
+      "do_objectID": "699DF7B4-B1CE-4A47-9485-649197D56660",
+      "overrideName": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
+      "value": "Height"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BFE8472-43B8-43A4-9825-D07D72B64FA8",
+      "overrideName": "B0848BB8-9123-4B48-BE90-C662FE241A17_stringValue",
+      "value": "Insert Weight"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C7F81A3-3B7A-429F-B314-8F169BE1341E",
+    "do_objectID": "E946CE23-9AA2-4192-AF45-E47EFE9CDFBD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0E65CA8C-7E1D-4ECB-AA41-BCFD616BAB73",
+  "symbolID": "3B068A3E-7618-4075-B6EB-67D91D12D081",
   "verticalSpacing": 0
 }

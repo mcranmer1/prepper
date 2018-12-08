@@ -31,7 +31,7 @@
     "y": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,27 +84,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F9609F91-C4C3-4516-82E3-2E042A0E656A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0C097C23-BCB0-4A6F-B340-B9B7122F5977"
-    },
-    {
-      "class": "symbolInstance",
       "id": "62228228-8A91-49E4-BD8E-E6088977A63E"
     },
     {
-      "class": "symbolInstance",
-      "id": "9D5F435E-A10F-47C6-B512-17E06054C26D"
+      "class": "text",
+      "id": "8CB73939-DCE9-44C8-8921-83E0D3E2EA93"
     },
     {
       "class": "text",
-      "id": "9F89A7CB-DFA7-45C1-8F20-2C63D49F689E"
-    },
-    {
-      "class": "text",
-      "id": "DFA49CA1-690D-4A96-A9A1-0AA60196B8D4"
+      "id": "D5098CB5-6060-497B-B495-3446B62CB610"
     }
   ],
   "name": "Survery Part 2",

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "62228228-8A91-49E4-BD8E-E6088977A63E",
+  "do_objectID": "1A09D0D4-6EE3-4062-8D7D-E72DEDA3B62B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9629091-4DA2-41CE-881E-52FE9A4956DA",
+    "do_objectID": "B32FDBFF-3350-4FD2-A2F5-0453CFBC2981",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D6C48864-19F7-4D33-979A-74EA998BC240",
+    "do_objectID": "A1F5745A-CD82-456B-8CF2-CDE90341EB0A",
     "height": 66,
     "width": 318,
     "x": 29,
-    "y": 349
+    "y": 433
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "InputDropDown",
+  "name": "InputDropDown Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3A3C0143-C676-48C3-B471-07AD900D5F0B",
+      "do_objectID": "018B53A9-70C3-4A91-A9D7-D20A4C73DE1E",
       "overrideName": "B668B707-2693-4A98-ABCA-2D257554CECB/56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
-      "value": "Diet"
+      "value": "Gender"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C7F81A3-3B7A-429F-B314-8F169BE1341E",
+    "do_objectID": "B861200A-B5A9-402E-B267-617E0A8C9CBA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

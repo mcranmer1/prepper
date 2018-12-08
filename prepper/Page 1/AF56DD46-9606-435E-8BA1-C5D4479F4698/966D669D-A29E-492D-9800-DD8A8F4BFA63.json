@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9D5F435E-A10F-47C6-B512-17E06054C26D",
+  "do_objectID": "966D669D-A29E-492D-9800-DD8A8F4BFA63",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BA761B5A-D079-428F-9E5C-2827BCE8839C",
+    "do_objectID": "8F1311C4-601B-4E38-9978-ABBEB3BC20BF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "60889A50-2E6F-408B-8DE8-39F893BFD4BF",
+    "do_objectID": "068E5D82-B1EB-41F4-AAFF-E4410A74516B",
     "height": 66,
     "width": 318,
     "x": 29,
-    "y": 433
+    "y": 265
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "InputDropDown Copy",
+  "name": "LargeInputs",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "018B53A9-70C3-4A91-A9D7-D20A4C73DE1E",
-      "overrideName": "B668B707-2693-4A98-ABCA-2D257554CECB/56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
-      "value": "Gender"
+      "do_objectID": "699DF7B4-B1CE-4A47-9485-649197D56660",
+      "overrideName": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
+      "value": "Name"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "812E2934-A965-48DB-9294-D363B7ACD59D",
+    "do_objectID": "8E406E00-CCB8-4CB9-8130-3581B97DE963",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0E65CA8C-7E1D-4ECB-AA41-BCFD616BAB73",
+  "symbolID": "3B068A3E-7618-4075-B6EB-67D91D12D081",
   "verticalSpacing": 0
 }

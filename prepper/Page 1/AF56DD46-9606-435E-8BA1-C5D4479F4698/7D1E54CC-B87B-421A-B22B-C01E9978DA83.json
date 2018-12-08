@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "62228228-8A91-49E4-BD8E-E6088977A63E",
+  "do_objectID": "7D1E54CC-B87B-421A-B22B-C01E9978DA83",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9629091-4DA2-41CE-881E-52FE9A4956DA",
+    "do_objectID": "D034F55E-40F2-4BD4-A32D-B55ED2454AE7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D6C48864-19F7-4D33-979A-74EA998BC240",
+    "do_objectID": "1F47672C-23A4-487D-991C-B83C02D64DD5",
     "height": 66,
     "width": 318,
     "x": 29,
@@ -33,12 +33,6 @@
   "name": "InputDropDown",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3A3C0143-C676-48C3-B471-07AD900D5F0B",
-      "overrideName": "B668B707-2693-4A98-ABCA-2D257554CECB/56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
-      "value": "Diet"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,7 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9C7F81A3-3B7A-429F-B314-8F169BE1341E",
+    "do_objectID": "B365F09F-0C5A-40DB-AA8D-DA4AA5FCBC96",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
