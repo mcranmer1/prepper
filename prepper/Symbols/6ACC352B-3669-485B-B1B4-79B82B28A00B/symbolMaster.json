@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 4115,
   "clippingMaskMode": 0,
   "do_objectID": "6ACC352B-3669-485B-B1B4-79B82B28A00B",
   "exportOptions": {
@@ -46,19 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "E24B7898-0599-4215-872F-2DEDFB33CDDB"
+      "id": "44FF915F-9278-44A7-B439-343FF759613D"
     },
     {
-      "class": "shapeGroup",
-      "id": "03CF5B14-E370-4917-9AAC-DCAFF806EFF7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B6E4D25D-2BE3-41A9-9B70-0E8DA7572EFA"
+      "class": "rectangle",
+      "id": "551CF937-3C5F-4D65-8E55-BAA4DFCC13B2"
     },
     {
       "class": "text",
@@ -77,8 +73,20 @@
       "id": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370"
     },
     {
+      "class": "triangle",
+      "id": "F53B3B51-1288-4273-8ACD-156F7901CE0F"
+    },
+    {
       "class": "symbolInstance",
       "id": "D5550B8E-39EB-4C7F-951D-FA9DC4E76EF7"
+    },
+    {
+      "class": "rectangle",
+      "id": "156FBB38-E295-44B5-906E-D72A63F80F3B"
+    },
+    {
+      "class": "text",
+      "id": "485273F5-2800-4043-A564-DB2ADA593A8A"
     }
   ],
   "name": "Recipe Card",

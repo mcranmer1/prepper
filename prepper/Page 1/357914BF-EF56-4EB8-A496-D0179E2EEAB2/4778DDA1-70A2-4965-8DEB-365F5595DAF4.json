@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4778DDA1-70A2-4965-8DEB-365F5595DAF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2912E098-C4B3-4010-BEF0-F85EF511FA2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13B86517-C01E-40E7-84FD-084907292CC8",
+    "height": 186,
+    "width": 320,
+    "x": 28,
+    "y": 1476
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81CB050B-A448-443D-9BE1-3E226A874A62",
+      "overrideName": "5AE21427-39FA-4C26-AE0C-24A360298487_stringValue",
+      "value": "Dislikes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ECED6E6-005F-47E1-9AE9-4664D448B03F",
+      "overrideName": "8CB73939-DCE9-44C8-8921-83E0D3E2EA93_stringValue",
+      "value": "Garlic"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "933853F1-6F6A-4926-847A-9FF96D471EB3",
+      "overrideName": "D5098CB5-6060-497B-B495-3446B62CB610_stringValue",
+      "value": "Broccoli"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3721035D-359A-44E2-BAF7-3755BB473EAD",
+      "overrideName": "1EA88E7B-6DA9-4711-94CA-4A5C26D5861A_stringValue",
+      "value": "Add Other"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A81AB64B-0CC8-487F-8EAD-18DE6DEA1B9A",
+      "overrideName": "5E1B721F-1225-4282-AE02-2F93C6B91F68_stringValue",
+      "value": "Onions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DB3CEE6-F33D-45A6-A607-B4F1A5680702",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DD9E6D3B-5E44-40FE-B462-F8C94DC006E8",
+  "verticalSpacing": 0
+}

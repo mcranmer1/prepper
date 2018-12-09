@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7051A78-AEF5-44EC-87A5-ABA5211286EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75A1FE3C-CC01-4586-B5D5-DB8A413C775A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6684C5C-B3E2-4A53-B71B-6550FAB76A52",
+    "height": 67,
+    "width": 321,
+    "x": 27,
+    "y": 626
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
+      "value": "Goal of Prepping"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
+      "value": "Lose Weight"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3091BF27-D700-46DD-AEC1-C6B0A33A71E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "verticalSpacing": 0
+}

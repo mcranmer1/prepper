@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA2BF87B-0E51-4AA7-8355-22EB28E11D36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFC00A24-6904-4882-A489-65D7344B3412",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55DC6694-F258-49D5-A332-AEC4B41E2D6F",
+    "height": 67,
+    "width": 321,
+    "x": 27,
+    "y": 265
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
+      "value": "Age"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
+      "value": "24"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB3EA956-4FA8-4D67-984D-870358A68ADE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "verticalSpacing": 0
+}

@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C1C0EAF3-FEDF-443F-8585-E8C9DA535CA8",
-    "height": 812,
+    "height": 1764,
     "width": 375,
     "x": 648,
     "y": 10
@@ -51,10 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "73D9051B-52BE-4EED-9545-A28BD132D229"
-    },
-    {
       "class": "rectangle",
       "id": "4F1FD614-029E-4476-913A-1A590A130E46"
     },
@@ -75,24 +71,48 @@
       "id": "27F3308F-E947-4ABE-869A-E5380E013DB8"
     },
     {
-      "class": "text",
-      "id": "0747FAAD-9F51-4AB4-AB47-889A648C81E7"
+      "class": "symbolInstance",
+      "id": "7D7B648A-7452-4D0C-ADBA-1606FD891A15"
     },
     {
       "class": "symbolInstance",
-      "id": "2C8DE3D8-117B-41E3-AD57-A30DEDF9BE49"
+      "id": "F8906CD0-0DAE-49A9-8053-316E52E6CCE3"
     },
     {
       "class": "symbolInstance",
-      "id": "62228228-8A91-49E4-BD8E-E6088977A63E"
+      "id": "89DEECD3-6A31-4EB8-A1B0-3EA306B40BE9"
     },
     {
-      "class": "text",
-      "id": "8CB73939-DCE9-44C8-8921-83E0D3E2EA93"
+      "class": "symbolInstance",
+      "id": "4778DDA1-70A2-4965-8DEB-365F5595DAF4"
     },
     {
-      "class": "text",
-      "id": "D5098CB5-6060-497B-B495-3446B62CB610"
+      "class": "group",
+      "id": "79B8BFE1-F04A-4BBB-8EA0-18E4C1B7D4A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FCF2620-B7C7-4643-B2FC-F7E8CC093092"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "329D2A3E-E170-4720-BD93-AF6889367F16"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE1E569A-A10A-473D-9ED9-6BCFC5AEB32A"
+    },
+    {
+      "class": "rectangle",
+      "id": "95E09FF9-1FDD-4C79-AB6F-F638EE451836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55BB2829-38B3-40DB-A2CA-BC1E49E22562"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7577932E-1FE9-4ED4-BB6B-7A96D5AF208E"
     }
   ],
   "name": "Survery Part 2",

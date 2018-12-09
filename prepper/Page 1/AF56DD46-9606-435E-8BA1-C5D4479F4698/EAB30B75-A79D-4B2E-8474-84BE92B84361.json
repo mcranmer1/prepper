@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAB30B75-A79D-4B2E-8474-84BE92B84361",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F11DA03-09B2-4E69-B024-273B61C8EC26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E6057E3-2890-4301-AB69-65E01492462A",
+    "height": 67,
+    "width": 321,
+    "x": 27,
+    "y": 1000
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
+      "value": "People Per Meal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
+      "value": "One"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49BE4ADD-F5F0-488D-A57E-B3CFCD1E6ED0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "verticalSpacing": 0
+}

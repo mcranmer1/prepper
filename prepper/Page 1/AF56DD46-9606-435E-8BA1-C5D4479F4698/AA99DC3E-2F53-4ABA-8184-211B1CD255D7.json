@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA99DC3E-2F53-4ABA-8184-211B1CD255D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCCB04D9-FDE2-4BDB-B03E-FBAEB0E773C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "224E0A1B-16EF-414C-BF11-60495BECC525",
+    "height": 67,
+    "width": 321,
+    "x": 27,
+    "y": 875
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
+      "value": "Meals Per Day"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
+      "value": "Three Medium"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B52E128-20BF-4F52-893C-B6628DB3E310",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FCF2620-B7C7-4643-B2FC-F7E8CC093092",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90F64090-D91B-4611-99C0-536BB5DD8A2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4F31945-A8CB-48CE-8719-A0FD32816CEB",
+    "height": 186,
+    "width": 320,
+    "x": 28,
+    "y": 393
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Inputs Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3CE4532-CACC-481E-9A74-FF54EFC07F40",
+      "overrideName": "5AE21427-39FA-4C26-AE0C-24A360298487_stringValue",
+      "value": "Physical Activity"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC18142D-945B-40A5-8107-9E9D80858A31",
+      "overrideName": "8CB73939-DCE9-44C8-8921-83E0D3E2EA93_stringValue",
+      "value": "Low"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD0237A2-D7FA-4B44-9139-4F7AA4CC9039",
+      "overrideName": "D5098CB5-6060-497B-B495-3446B62CB610_stringValue",
+      "value": "Medium"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "375D3FB2-247E-4B1A-B6B7-712742BF9068",
+      "overrideName": "5E1B721F-1225-4282-AE02-2F93C6B91F68_stringValue",
+      "value": "High"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "470ADE83-1F3D-4017-A225-A4723E3310CD",
+      "overrideName": "1EA88E7B-6DA9-4711-94CA-4A5C26D5861A_stringValue",
+      "value": "Varied"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82364B77-0266-4708-886E-BE9B22AC78F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DD9E6D3B-5E44-40FE-B462-F8C94DC006E8",
+  "verticalSpacing": 0
+}

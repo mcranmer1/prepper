@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
+              "name": "Georgia",
               "size": 16
             }
           },
@@ -54,7 +54,7 @@
     "x": 28,
     "y": 172
   },
-  "glyphBounds": "{{11, 2}, {297, 53}}",
+  "glyphBounds": "{{8, 2}, {303, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
+            "name": "Georgia",
             "size": 16
           }
         },

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60B7AE7A-BA03-4C20-AF6C-65050E4C14A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "368C3340-A49D-430A-9770-3A0B76BD2A50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E14972C-5B86-4216-BA53-84CCCCD2F569",
+    "height": 67,
+    "width": 321,
+    "x": 27,
+    "y": 1261
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Review Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
+      "value": "Allergies"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
+      "value": "Seafood"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DCF5C27-F926-4B07-BF9D-5806121A21F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "verticalSpacing": 0
+}

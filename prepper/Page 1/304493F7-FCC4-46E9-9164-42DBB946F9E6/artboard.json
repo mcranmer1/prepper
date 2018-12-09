@@ -81,6 +81,14 @@
     {
       "class": "text",
       "id": "C5BEBE2F-7889-48CC-BCCB-06BD58CFDD78"
+    },
+    {
+      "class": "text",
+      "id": "569A1AF7-0EE6-47C8-849B-146FA62DF7FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "569108C9-8056-4D9C-8BB1-851CAE047AE8"
     }
   ],
   "name": "MainPage",
