@@ -230,6 +230,10 @@
     {
       "class": "bitmap",
       "id": "98853A99-47A3-45D4-9012-653FAEDC6FE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED35FD80-F787-40D0-8EA5-357860AC692F"
     }
   ],
   "name": "Recipe",

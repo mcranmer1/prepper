@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 4,
   "clippingMaskMode": 0,
   "do_objectID": "19D9954E-0880-4FC4-BC19-6BC063FBF4BD",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "EFBA16E3-2933-43D3-85FA-579643034887"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7BD95EC7-AF01-4C18-9BC4-AF1B6DF7D3D7"
     }
   ],
   "name": "NavBar2",

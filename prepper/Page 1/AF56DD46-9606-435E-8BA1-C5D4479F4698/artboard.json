@@ -209,6 +209,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "CE9B6E48-62AA-43C8-99F7-E13FA0FA4856"
+    },
+    {
+      "class": "symbolInstance",
       "id": "9F266820-3C73-494E-AAAE-8B0D151D5C23"
     },
     {
@@ -250,6 +254,10 @@
     {
       "class": "shapePath",
       "id": "54611E39-AF5F-41FA-9623-29F1CC61FC4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ECCBAF0-95E7-453C-B801-BE96B56C7089"
     }
   ],
   "name": "Survery Part 3",

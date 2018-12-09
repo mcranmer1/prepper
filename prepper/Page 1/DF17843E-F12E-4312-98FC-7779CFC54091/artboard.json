@@ -130,6 +130,10 @@
     {
       "class": "shapePath",
       "id": "408EB42D-4275-4DCB-B9D5-F504CB898520"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BBAADA5-3F37-40CB-89C1-C5D876B49421"
     }
   ],
   "name": "Survery Part 1",
