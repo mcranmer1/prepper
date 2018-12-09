@@ -48,6 +48,12 @@
       "do_objectID": "918F89CF-981C-4202-9051-7B825DF2FA9D",
       "overrideName": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22_stringValue",
       "value": "$0.30 per serving"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A68FEFB5-FD48-4C66-86C4-2A8FC73A0B29",
+      "overrideName": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370_stringValue",
+      "value": "Simple, easy, quick and customizable overnight oat recipe. The ultimate recipe if you are on a time crunch. "
     }
   ],
   "resizingConstraint": 63,

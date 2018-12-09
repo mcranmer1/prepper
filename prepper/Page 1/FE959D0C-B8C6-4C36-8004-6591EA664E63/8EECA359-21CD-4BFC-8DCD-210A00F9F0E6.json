@@ -84,6 +84,26 @@
         "_ref": "images/a9cd1f84d3a83b6897ac9ece99b25d3ffb551db9.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2819EAFC-7772-4A59-A8CC-9429129F8D31",
+      "overrideName": "E48A8937-66B6-4A83-BE96-11A654996384_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/864e7e881227cb31f692b166b9ab95eebcb43dca.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "866E7A48-74D3-4BDA-87CF-2C0D27A050B8",
+      "overrideName": "9D1B499C-1E18-4742-B4EF-142A15FAF3D6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3b0d9e91620dc1171025c75de29d30ac6b1d0133.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

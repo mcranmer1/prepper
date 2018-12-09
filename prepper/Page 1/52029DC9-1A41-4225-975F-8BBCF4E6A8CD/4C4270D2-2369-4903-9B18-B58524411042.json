@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
+            "blue": 0.1843137254901961,
+            "green": 0.05882352941176469,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
@@ -53,8 +53,8 @@
     "do_objectID": "6536DAD0-7B41-475F-860A-FA95D9015BD3",
     "height": 23,
     "width": 54,
-    "x": 164,
-    "y": 441
+    "x": 290,
+    "y": 442
   },
   "glyphBounds": "{{2, 3}, {45, 12}}",
   "hasClippingMask": false,
@@ -84,8 +84,8 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
+          "blue": 0.1843137254901961,
+          "green": 0.05882352941176469,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {

@@ -33,6 +33,40 @@
   "name": "Recipe Card Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCA318ED-B4DB-40EB-B7F4-933D58BFC0AD",
+      "overrideName": "9F0D3B77-D673-4592-BE10-B4E49E0BD46A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c7eb877c02fa8839fd434c981fe5531e27a30ee2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E3D6C43-68F5-4E28-B9E1-85A0506E8C9F",
+      "overrideName": "065405B4-8B7E-4F26-B20B-F7349B8DB78A_stringValue",
+      "value": "Tomato Bruschetta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACCFF213-E133-4A3E-AABB-E043B1B68926",
+      "overrideName": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370_stringValue",
+      "value": "This looks as good as it tastes! Easy to follow recipe of tomatoes, feta, spinach, and olive oil. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFCCD910-9174-4CC9-A590-2BA3B2475C66",
+      "overrideName": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22_stringValue",
+      "value": "$1.78 per serving"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1913E57F-B0F4-4BA2-A9FB-DD98E5EDD63D",
+      "overrideName": "9646A356-2C48-4770-BA70-986EFDD1A8A7_stringValue",
+      "value": "75min"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

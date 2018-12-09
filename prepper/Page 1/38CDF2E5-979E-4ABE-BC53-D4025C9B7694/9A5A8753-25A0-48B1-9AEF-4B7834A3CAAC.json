@@ -33,6 +33,46 @@
   "name": "Recipe Card Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE18B3E-4C4E-4D95-B7AA-7400844BD717",
+      "overrideName": "9F0D3B77-D673-4592-BE10-B4E49E0BD46A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/be4e29875b3f0d65be86a95bf1a202356de132c8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5001EF2E-1C0F-4964-BCD7-9E337862847F",
+      "overrideName": "B18A0EAF-8050-4A61-831D-ACDB01D89B75_stringValue",
+      "value": "MEDIUM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27B958C5-6CCD-4C22-B413-833C4395B2E2",
+      "overrideName": "9646A356-2C48-4770-BA70-986EFDD1A8A7_stringValue",
+      "value": "1hr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01EC3146-9571-42D1-84AD-1D80CB4ECD7C",
+      "overrideName": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22_stringValue",
+      "value": "$1.26 per serving"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3D0B4F5-51DF-40C6-9E59-5B1D0FBA8316",
+      "overrideName": "065405B4-8B7E-4F26-B20B-F7349B8DB78A_stringValue",
+      "value": "Veggie Pizza"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59DE6357-4810-4FAC-B281-E648E01B127F",
+      "overrideName": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370_stringValue",
+      "value": "Make your own crust and pile on all the yummy vegetables for this whole-wheat veggie pizza that is a crowd pleaser!"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

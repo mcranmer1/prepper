@@ -33,6 +33,34 @@
   "name": "Recipe Card Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5926E176-4A6B-4254-BB0B-F6CB6B834BDA",
+      "overrideName": "9F0D3B77-D673-4592-BE10-B4E49E0BD46A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/933ec99252dfaeda74db32255df48ab18a74c30b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70454705-E925-4D59-8476-2BE2F17B7568",
+      "overrideName": "065405B4-8B7E-4F26-B20B-F7349B8DB78A_stringValue",
+      "value": "Mason Jar Salad"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBED1FC4-536B-4A85-99BD-DC62DBF6E20D",
+      "overrideName": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370_stringValue",
+      "value": "When you are in a pickle this salad is a savior. Enjoy tofu, tomatoes, spinach and more in a convienant jar on-the-go!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C5D9250-1731-4201-81A5-95A0F9B188AE",
+      "overrideName": "9646A356-2C48-4770-BA70-986EFDD1A8A7_stringValue",
+      "value": "30min"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

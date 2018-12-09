@@ -74,6 +74,36 @@
       "do_objectID": "857301EE-A17D-4CA9-9983-EF991E771943",
       "overrideName": "7F12CEC9-EEFC-4C67-A339-A04679FC0F18_stringValue",
       "value": "16 oz. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27DFFED4-E71E-4E76-9E1A-16CF7022F9CB",
+      "overrideName": "E48A8937-66B6-4A83-BE96-11A654996384_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/662b975e28bc8fb839de14d51f1c8cc288946bbf.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED66588-3F36-4A86-87B6-C29C81724537",
+      "overrideName": "9D1B499C-1E18-4742-B4EF-142A15FAF3D6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0106f8fbd41f17a19aa5b6983de719d1a48a2272.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EED0097-1110-48A8-A9A8-091885C2C048",
+      "overrideName": "BE0C908B-2B55-4CFF-9A07-E4C72F50BD3B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0607e390aa148d9e2ee9626862148d2566d68d44.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

@@ -37,7 +37,37 @@
       "overrideName": "523793C0-1004-4C06-895C-40E4C7507F32/47153C3F-C740-4BA2-A3E8-61AF709654CE_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/ffdddfd2375d5b342a406e6ebf1a1e0335403f5b.png",
+        "_ref": "images/12c9e237c7d257cb34a7053f6e219479dc643bad.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1404B74B-3ADA-4CB3-A751-DA498B68DA00",
+      "overrideName": "8C27BF9D-5EC8-4444-8EAB-FEDCB82C488E/47153C3F-C740-4BA2-A3E8-61AF709654CE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7d9c350b4524882f9478cfdcee8196dd12f5f60d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "335B9427-A997-408D-9A51-DF73097635CD",
+      "overrideName": "B8AB03E8-2B1C-4901-B0EF-08321AB0FFDC/47153C3F-C740-4BA2-A3E8-61AF709654CE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/74503cd656b4e6cf99addf2e561b3b4991394063.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9264A683-EF77-4395-A3DC-EA5831E87C75",
+      "overrideName": "20BE5C0C-8F9C-4280-AA35-4DE67A7266C8/47153C3F-C740-4BA2-A3E8-61AF709654CE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0acaacc6788dd863812e4f664099d13f67149aa6.png",
         "_ref_class": "MSImageData"
       }
     }
