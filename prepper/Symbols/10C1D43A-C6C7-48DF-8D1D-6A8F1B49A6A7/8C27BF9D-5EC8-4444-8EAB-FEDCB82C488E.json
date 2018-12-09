@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C27BF9D-5EC8-4444-8EAB-FEDCB82C488E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D793BFD0-0C28-4B2E-B48A-C926EEBD7033",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A42A8B41-EAB8-49EE-ABE3-F1C4BDAC1F68",
+    "height": 66,
+    "width": 305,
+    "x": 15,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Preps Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6785F3A8-62F0-4B5B-9BC9-EAD6CAC9D023",
+      "overrideName": "D759E2A1-201F-4C6D-876D-273AEE70B05B_stringValue",
+      "value": "Dinner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F31E4F24-0274-40A5-A1E5-3A712A7DB2B1",
+      "overrideName": "3E9BE31E-58A7-418A-82A4-C8C3487659B2_stringValue",
+      "value": "Vegetable Stir Fry"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C8E149B-2D69-4F16-871B-3626C0605A61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31BA7EAE-03F8-4CAA-A196-89218ECCD453",
+  "verticalSpacing": 0
+}

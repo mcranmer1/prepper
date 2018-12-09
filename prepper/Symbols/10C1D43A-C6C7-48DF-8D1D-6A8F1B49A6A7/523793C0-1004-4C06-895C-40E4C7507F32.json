@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "523793C0-1004-4C06-895C-40E4C7507F32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A92C70FA-AA14-41B8-87C0-6B92D264C556",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7427145-AD6B-401E-AA5A-EDB7E18E4756",
+    "height": 66,
+    "width": 305,
+    "x": 14,
+    "y": 129
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Preps Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6785F3A8-62F0-4B5B-9BC9-EAD6CAC9D023",
+      "overrideName": "D759E2A1-201F-4C6D-876D-273AEE70B05B_stringValue",
+      "value": "Snack"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F31E4F24-0274-40A5-A1E5-3A712A7DB2B1",
+      "overrideName": "3E9BE31E-58A7-418A-82A4-C8C3487659B2_stringValue",
+      "value": "Apple w/ Almond Butter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4F94869-E861-4BF5-BA72-203CA3347C32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31BA7EAE-03F8-4CAA-A196-89218ECCD453",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77AC4E84-2D6B-493C-9EFE-BBF0ABC3CEA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "100AA93D-BE02-49ED-93A1-04F6270F003D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71DCCFA2-953A-4E2B-B10C-598CB65AA3FC",
+    "height": 453,
+    "width": 320,
+    "x": 28,
+    "y": 758
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "prep days copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D3BC5A7-B003-48F6-967D-045A2E5D952A",
+      "overrideName": "0715D381-76F8-4243-B06C-18012BA82617_stringValue",
+      "value": "Tuesday"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AD4094F-0F33-4178-AB4A-05E85D76F953",
+      "overrideName": "8C27BF9D-5EC8-4444-8EAB-FEDCB82C488E/3E9BE31E-58A7-418A-82A4-C8C3487659B2_stringValue",
+      "value": "Cheese Enchiladas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3407807E-EE76-4DCD-8198-013812B894E9",
+      "overrideName": "B8AB03E8-2B1C-4901-B0EF-08321AB0FFDC/3E9BE31E-58A7-418A-82A4-C8C3487659B2_stringValue",
+      "value": "Bowl of Strawberrys"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6EEC202-79CA-4500-93C9-95A13298AE44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "11CD8EB8-D896-48C9-8648-23FD780062E9",
+  "verticalSpacing": 0
+}

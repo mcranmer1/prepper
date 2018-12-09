@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "B488343D-3E15-4F9F-ABCD-AF154EB8E522",
+  "do_objectID": "10C1D43A-C6C7-48DF-8D1D-6A8F1B49A6A7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1265,
-    "width": 375,
-    "x": 1532,
-    "y": 10
+    "height": 453,
+    "width": 320,
+    "x": 2021,
+    "y": 442
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,58 +46,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "13BD5FCD-4A04-4807-AB91-FE92249F3E2B"
+      "id": "4576C0E6-DD90-4044-ABB6-D95B0DD36D4B"
     },
     {
       "class": "symbolInstance",
-      "id": "D77879E0-0E23-458E-B901-009E24119D78"
+      "id": "523793C0-1004-4C06-895C-40E4C7507F32"
     },
     {
       "class": "symbolInstance",
-      "id": "77AC4E84-2D6B-493C-9EFE-BBF0ABC3CEA4"
-    },
-    {
-      "class": "text",
-      "id": "A3A08C6F-30EC-46B0-B37E-E1AE523EA445"
-    },
-    {
-      "class": "rectangle",
-      "id": "E7ABCDB6-6FA3-4DD6-9187-A80C6B8B3A12"
-    },
-    {
-      "class": "text",
-      "id": "52C2A47C-E27F-4864-BF40-F613557E720B"
-    },
-    {
-      "class": "text",
-      "id": "0D3E0EE1-BDF6-4FD1-BA59-A997371100B4"
-    },
-    {
-      "class": "text",
-      "id": "6760F8D1-64F4-449B-8593-BE0B8FE657D3"
-    },
-    {
-      "class": "rectangle",
-      "id": "816367B9-B48B-48B1-975A-4773A2B7C14D"
+      "id": "20BE5C0C-8F9C-4280-AA35-4DE67A7266C8"
     },
     {
       "class": "symbolInstance",
-      "id": "BB389A2B-1CAB-41EC-A764-F67E9F6ED759"
+      "id": "8C27BF9D-5EC8-4444-8EAB-FEDCB82C488E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8AB03E8-2B1C-4901-B0EF-08321AB0FFDC"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C29B305-6E2E-460C-A39D-C8FB3A69CD63"
+    },
+    {
+      "class": "text",
+      "id": "0715D381-76F8-4243-B06C-18012BA82617"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82BD946F-AFD6-4DBC-AD96-1B1B45E124A8"
     }
   ],
-  "name": "Main Page",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
+  "name": "prep days",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -108,6 +95,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "11CD8EB8-D896-48C9-8648-23FD780062E9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

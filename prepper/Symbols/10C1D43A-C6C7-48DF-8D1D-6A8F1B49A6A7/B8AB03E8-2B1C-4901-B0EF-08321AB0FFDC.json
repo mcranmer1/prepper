@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8AB03E8-2B1C-4901-B0EF-08321AB0FFDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CF38357-D43E-4082-974E-2782ED74CD0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F72B6062-C281-4EAD-9B0E-B5467A408401",
+    "height": 66,
+    "width": 305,
+    "x": 15,
+    "y": 387
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Preps Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6785F3A8-62F0-4B5B-9BC9-EAD6CAC9D023",
+      "overrideName": "D759E2A1-201F-4C6D-876D-273AEE70B05B_stringValue",
+      "value": "Dessert"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F31E4F24-0274-40A5-A1E5-3A712A7DB2B1",
+      "overrideName": "3E9BE31E-58A7-418A-82A4-C8C3487659B2_stringValue",
+      "value": "Banana Nice Cream"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "033A5E2C-5A14-4114-8B81-19F139BAAA29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31BA7EAE-03F8-4CAA-A196-89218ECCD453",
+  "verticalSpacing": 0
+}

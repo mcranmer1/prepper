@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande-Bold",
-              "size": 14
+              "name": "LucidaGrande",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "View"
+    "string": "Meal Prep"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "485273F5-2800-4043-A564-DB2ADA593A8A",
+  "do_objectID": "52C2A47C-E27F-4864-BF40-F613557E720B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EB1746D5-C2A7-4C9A-8FCE-FC6FD25404FD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 37,
-    "x": 241,
-    "y": 230
+    "do_objectID": "E2EE4D29-22AA-4D69-93A7-0BE13113D1F1",
+    "height": 23,
+    "width": 112,
+    "x": 13,
+    "y": 92
   },
-  "glyphBounds": "{{1, 3}, {35, 12}}",
+  "glyphBounds": "{{10, 3}, {93, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "View",
+  "name": "Meal Prep",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CB3E65E6-83EA-436F-97F6-287303430770",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "CB6956C3-145A-4948-A3BE-50EBCDB6C189",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande-Bold",
-            "size": 14
+            "name": "LucidaGrande",
+            "size": 20
           }
         },
         "paragraphStyle": {

@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4563,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "6ACC352B-3669-485B-B1B4-79B82B28A00B",
+  "do_objectID": "E2BF8F3B-8528-4701-B930-04F8DF44C447",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 265,
-    "width": 330,
-    "x": 385,
+    "height": 23,
+    "width": 83,
+    "x": 3388,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,50 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "44FF915F-9278-44A7-B439-343FF759613D"
-    },
-    {
-      "class": "rectangle",
-      "id": "551CF937-3C5F-4D65-8E55-BAA4DFCC13B2"
+      "id": "5588D1B1-4885-4DA4-AECD-1162657B22F6"
     },
     {
       "class": "text",
-      "id": "065405B4-8B7E-4F26-B20B-F7349B8DB78A"
-    },
-    {
-      "class": "text",
-      "id": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22"
-    },
-    {
-      "class": "text",
-      "id": "9646A356-2C48-4770-BA70-986EFDD1A8A7"
-    },
-    {
-      "class": "text",
-      "id": "1C01E9B7-FFF1-4BCC-9DCC-BE10DAE94370"
-    },
-    {
-      "class": "triangle",
-      "id": "F53B3B51-1288-4273-8ACD-156F7901CE0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D5550B8E-39EB-4C7F-951D-FA9DC4E76EF7"
-    },
-    {
-      "class": "rectangle",
-      "id": "156FBB38-E295-44B5-906E-D72A63F80F3B"
-    },
-    {
-      "class": "text",
-      "id": "485273F5-2800-4043-A564-DB2ADA593A8A"
+      "id": "993F56F3-D4BA-419A-8F9E-A3AE24D33124"
     }
   ],
-  "name": "Recipe Card",
+  "name": "edit prep",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -103,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB5AD33C-D8FE-4D64-B9EF-1EA8B57FAA24",
+  "symbolID": "1ADB81D1-F841-4931-B65B-C14AABD87FF5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

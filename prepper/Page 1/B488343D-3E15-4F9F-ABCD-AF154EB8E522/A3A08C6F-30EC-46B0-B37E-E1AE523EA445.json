@@ -16,21 +16,79 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "LucidaGrande",
+              "size": 26
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 31,
+            "minimumLineHeight": 31
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 13,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Damascus",
               "size": 26
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2,
+            "maximumLineHeight": 31,
+            "minimumLineHeight": 31
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
-        "location": 0
+        "length": 1,
+        "location": 13
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 26
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 31,
+            "minimumLineHeight": 31
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 15,
+        "location": 14
       }
     ],
-    "string": "HELLO,\nMadison"
+    "string": "GOOD MORNING,\nMadison Cranmer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +107,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "height": 67,
     "width": 227,
-    "x": 127,
-    "y": 128
+    "x": 74,
+    "y": 157
   },
-  "glyphBounds": "{{2, 5}, {102, 51}}",
+  "glyphBounds": "{{4, 5}, {221, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +121,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "HELLO, Madison",
+  "name": "GOOD MORNING, Madiso",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +151,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2,
+          "maximumLineHeight": 31,
+          "minimumLineHeight": 31
         },
         "textStyleVerticalAlignmentKey": 0
       },
