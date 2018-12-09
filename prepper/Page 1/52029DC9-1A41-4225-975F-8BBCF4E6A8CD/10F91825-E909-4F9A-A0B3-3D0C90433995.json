@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Baskerville",
-              "size": 18
+              "name": "Baskerville-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 104,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "In order to create a personalized meal prep plan please answer the questions as accurately as possible. "
+    "string": "1/2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F54D898D-F889-47E7-97A4-8369487A5B92",
+  "do_objectID": "10F91825-E909-4F9A-A0B3-3D0C90433995",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0BFACDA1-331C-4409-9E6A-3FC8D8B7FEC4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 319,
-    "x": 28,
-    "y": 171
+    "do_objectID": "1FE09785-117D-4ADC-BD21-4659D565AE46",
+    "height": 17,
+    "width": 90,
+    "x": 32,
+    "y": 703
   },
-  "glyphBounds": "{{4, 3}, {311, 58}}",
+  "glyphBounds": "{{34, 3}, {23, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "In order to create a",
+  "name": "1/2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "FE68913B-9946-4E50-9CDA-1ACB0B3AA1E3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6C5FA6E9-B648-49D8-BC69-418C7B6C7ECB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Baskerville",
-            "size": 18
+            "name": "Baskerville-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {
@@ -101,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

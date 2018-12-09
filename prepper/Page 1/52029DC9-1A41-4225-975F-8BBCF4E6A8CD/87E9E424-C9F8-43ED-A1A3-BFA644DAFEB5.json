@@ -17,28 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Baskerville",
-              "size": 18
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 104,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "In order to create a personalized meal prep plan please answer the questions as accurately as possible. "
+    "string": "8 grams"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F54D898D-F889-47E7-97A4-8369487A5B92",
+  "do_objectID": "87E9E424-C9F8-43ED-A1A3-BFA644DAFEB5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "BADCB45D-375F-49D2-B0D6-3BFADB3DFACF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 319,
-    "x": 28,
-    "y": 171
+    "do_objectID": "FC3E1315-3DB6-4F2F-97F7-6A27E995F0D5",
+    "height": 16,
+    "width": 197,
+    "x": 150,
+    "y": 1302
   },
-  "glyphBounds": "{{4, 3}, {311, 58}}",
+  "glyphBounds": "{{0, 3}, {45, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "In order to create a",
+  "name": "8 grams",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D15D3C47-87E9-4040-B5DF-4DED14F60747",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "ED731B9B-EC85-4E80-B7E4-B06251C9933F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -88,12 +92,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Baskerville",
-            "size": 18
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -101,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

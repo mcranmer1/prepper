@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8339,
+  "changeIdentifier": 8565,
   "clippingMaskMode": 0,
   "do_objectID": "6ACC352B-3669-485B-B1B4-79B82B28A00B",
   "exportOptions": {
@@ -87,6 +87,10 @@
     {
       "class": "text",
       "id": "485273F5-2800-4043-A564-DB2ADA593A8A"
+    },
+    {
+      "class": "text",
+      "id": "B18A0EAF-8050-4A61-831D-ACDB01D89B75"
     }
   ],
   "name": "Recipe Card",

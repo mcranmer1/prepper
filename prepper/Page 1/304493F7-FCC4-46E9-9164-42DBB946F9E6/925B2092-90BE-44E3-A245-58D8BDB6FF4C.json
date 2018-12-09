@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Georgia",
-              "size": 18
+              "name": "Baskerville",
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -52,9 +52,9 @@
     "height": 27,
     "width": 209,
     "x": 83,
-    "y": 548
+    "y": 547
   },
-  "glyphBounds": "{{12, 3}, {185, 15}}",
+  "glyphBounds": "{{10, 4}, {188, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -103,8 +103,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Georgia",
-            "size": 18
+            "name": "Baskerville",
+            "size": 20
           }
         },
         "paragraphStyle": {

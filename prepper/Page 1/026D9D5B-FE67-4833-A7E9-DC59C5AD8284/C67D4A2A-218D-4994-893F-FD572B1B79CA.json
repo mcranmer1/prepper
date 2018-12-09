@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Georgia",
+              "name": "Baskerville",
               "size": 20
             }
           },
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "F6B5A2ED-DE45-4836-A899-D567F0286C13",
     "height": 165,
-    "width": 228,
-    "x": 74,
+    "width": 208,
+    "x": 84,
     "y": 316
   },
-  "glyphBounds": "{{4, 3}, {220, 121}}",
+  "glyphBounds": "{{4, 5}, {199, 119}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Georgia",
+            "name": "Baskerville",
             "size": 20
           }
         },
