@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
+            "blue": 0.1843137254901961,
+            "green": 0.05882352941176469,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 124,
+        "length": 116,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5B703335-8292-4FBC-B1CF-8DA7D57CCD87",
-    "height": 55,
-    "width": 283,
-    "x": 24,
+    "height": 75,
+    "width": 235,
+    "x": 6,
     "y": 172
   },
-  "glyphBounds": "{{0, 3}, {276, 46}}",
+  "glyphBounds": "{{0, 3}, {227, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -84,8 +84,8 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
+          "blue": 0.1843137254901961,
+          "green": 0.05882352941176469,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {

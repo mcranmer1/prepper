@@ -64,26 +64,6 @@
       "id": "DF5926E3-08E9-48F6-A527-E93BD3A520CB"
     },
     {
-      "class": "rectangle",
-      "id": "381C1F0A-461B-475D-BE23-089429497F41"
-    },
-    {
-      "class": "text",
-      "id": "1D521727-15CB-4255-9FF3-882FABB7A28F"
-    },
-    {
-      "class": "text",
-      "id": "D3B7CA3A-2C8F-430F-97E7-6E6F47DF4D80"
-    },
-    {
-      "class": "text",
-      "id": "A093AAA1-E364-4EE3-8A63-85CAFFECB2D8"
-    },
-    {
-      "class": "rectangle",
-      "id": "F84416AD-5FC6-4F43-B683-9E087A34AF30"
-    },
-    {
       "class": "symbolInstance",
       "id": "5E4D9440-D647-4646-9CB4-35F6EB5050E1"
     },
@@ -106,6 +86,30 @@
     {
       "class": "symbolInstance",
       "id": "45A8C9A4-8F11-4E53-BB66-80238E2B82A2"
+    },
+    {
+      "class": "rectangle",
+      "id": "4124EF1F-7D20-4B3F-BC21-50B1E6B53E62"
+    },
+    {
+      "class": "text",
+      "id": "B52129F5-210F-443A-B4C4-F1DDB050E3D2"
+    },
+    {
+      "class": "text",
+      "id": "37496075-7068-464B-9F32-AFF9B35128D0"
+    },
+    {
+      "class": "text",
+      "id": "C140EBCE-73C7-482E-8065-6043627A6B8A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F85BE18-9FC5-49CA-AFBC-7F03516D8201"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABF40A83-F0B4-4C85-A0C4-1A6E2DF27780"
     }
   ],
   "name": "Cookbook",

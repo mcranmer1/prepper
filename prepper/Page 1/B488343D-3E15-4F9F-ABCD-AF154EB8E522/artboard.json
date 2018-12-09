@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -72,28 +72,32 @@
       "id": "A3A08C6F-30EC-46B0-B37E-E1AE523EA445"
     },
     {
-      "class": "rectangle",
-      "id": "E7ABCDB6-6FA3-4DD6-9187-A80C6B8B3A12"
-    },
-    {
-      "class": "text",
-      "id": "52C2A47C-E27F-4864-BF40-F613557E720B"
-    },
-    {
-      "class": "text",
-      "id": "0D3E0EE1-BDF6-4FD1-BA59-A997371100B4"
-    },
-    {
-      "class": "text",
-      "id": "6760F8D1-64F4-449B-8593-BE0B8FE657D3"
-    },
-    {
-      "class": "rectangle",
-      "id": "816367B9-B48B-48B1-975A-4773A2B7C14D"
-    },
-    {
       "class": "symbolInstance",
       "id": "BB389A2B-1CAB-41EC-A764-F67E9F6ED759"
+    },
+    {
+      "class": "rectangle",
+      "id": "1A970E64-0A29-497C-8F5D-6F5923A6633D"
+    },
+    {
+      "class": "text",
+      "id": "6E2AA563-5B03-47EC-B03D-99089463CEBD"
+    },
+    {
+      "class": "text",
+      "id": "941EC8E9-AEDA-423F-9285-24EF57646AA2"
+    },
+    {
+      "class": "text",
+      "id": "2270A2F0-6BE2-44D3-88E5-64588A3F2785"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB9BD2E2-28EA-4A35-AFFB-E8367CEC502A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0956210-7DD6-463B-96A5-D1814BB1CAD3"
     }
   ],
   "name": "Meal Prep",

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Recipe Name"
+    "string": "Hearty Overnight Oats"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "429A169D-26FC-4A72-AE7C-26677C05409E",
     "height": 23,
-    "width": 197,
+    "width": 222,
     "x": 22,
     "y": 318
   },
-  "glyphBounds": "{{1, 4}, {124, 19}}",
+  "glyphBounds": "{{1, 3}, {214, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Recipe Name",
+  "name": "Hearty Overnight Oat",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

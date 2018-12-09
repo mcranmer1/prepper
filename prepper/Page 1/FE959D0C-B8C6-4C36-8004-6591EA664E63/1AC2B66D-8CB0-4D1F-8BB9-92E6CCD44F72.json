@@ -74,6 +74,16 @@
       "do_objectID": "857301EE-A17D-4CA9-9983-EF991E771943",
       "overrideName": "7F12CEC9-EEFC-4C67-A339-A04679FC0F18_stringValue",
       "value": "2 medium"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7C893D1-CAD8-4BF1-BFC4-F36A75E86FED",
+      "overrideName": "BE0C908B-2B55-4CFF-9A07-E4C72F50BD3B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ffdddfd2375d5b342a406e6ebf1a1e0335403f5b.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

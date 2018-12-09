@@ -31,6 +31,16 @@
   "name": "prep days",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73242666-84E2-4998-89AC-6B15BC70BF2A",
+      "overrideName": "523793C0-1004-4C06-895C-40E4C7507F32/47153C3F-C740-4BA2-A3E8-61AF709654CE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ffdddfd2375d5b342a406e6ebf1a1e0335403f5b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

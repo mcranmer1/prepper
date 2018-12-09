@@ -68,26 +68,6 @@
       "id": "76462C8F-80B1-497B-99C3-9FAD12435F2A"
     },
     {
-      "class": "rectangle",
-      "id": "68E9E1A1-96C3-4DBA-B5D0-680F5024CBC7"
-    },
-    {
-      "class": "text",
-      "id": "4CD319E3-5A31-4DE9-9EE4-1DFF97C91CF1"
-    },
-    {
-      "class": "text",
-      "id": "16D42D12-0ED8-431C-A3C7-FBAE72CDE660"
-    },
-    {
-      "class": "text",
-      "id": "F48648B3-1AF6-4C09-A5E2-DEC4A5818B15"
-    },
-    {
-      "class": "rectangle",
-      "id": "29B4C296-1834-4D60-BB15-84C302F4C667"
-    },
-    {
       "class": "symbolInstance",
       "id": "4E0B1F1D-0E0F-4FF6-9F94-5A7112A3DF76"
     },
@@ -114,6 +94,30 @@
     {
       "class": "symbolInstance",
       "id": "8EECA359-21CD-4BFC-8DCD-210A00F9F0E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "513AE2AB-5DC0-468A-B08A-5BB7DF6430E1"
+    },
+    {
+      "class": "text",
+      "id": "F5408DAF-006A-4371-B057-89332494997C"
+    },
+    {
+      "class": "text",
+      "id": "C37F2B3E-4B3E-4EE6-9188-9E3025581BFF"
+    },
+    {
+      "class": "text",
+      "id": "DCC87799-2541-48F6-AF3C-7BF1B19E56F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "B711517F-7A1D-4141-A851-7BD613F56D0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BA9A815-B411-4E02-8549-F4542852F020"
     }
   ],
   "name": "Groceries",

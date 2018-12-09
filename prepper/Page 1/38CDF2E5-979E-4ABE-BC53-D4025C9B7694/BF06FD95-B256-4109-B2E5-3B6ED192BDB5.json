@@ -31,6 +31,24 @@
   "name": "Recipe Card",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8025E88-2334-4F82-A1A7-20C02E8B6038",
+      "overrideName": "065405B4-8B7E-4F26-B20B-F7349B8DB78A_stringValue",
+      "value": "Overnight Oats"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACECCADC-EF8B-4614-9BAD-9F3A916A9706",
+      "overrideName": "9646A356-2C48-4770-BA70-986EFDD1A8A7_stringValue",
+      "value": "10min"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "918F89CF-981C-4202-9051-7B825DF2FA9D",
+      "overrideName": "E3DBF0C1-6FC8-4428-AC09-63383C61CB22_stringValue",
+      "value": "$0.30 per serving"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
