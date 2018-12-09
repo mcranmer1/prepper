@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EC13FD55-78C4-4208-A0F3-0B832BBB49EC",
+  "do_objectID": "8369A495-47C6-4FB7-8914-B35AD1C2CBC6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D9875811-4DDB-4255-AC95-CC2697913B09",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "FBA91D9D-34CF-4B64-B396-E40371A95FD3",
     "height": 66,
     "width": 318,
     "x": 29,
-    "y": 522
+    "y": 349
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "InputDropDown",
+  "name": "LargeInputs Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "699DF7B4-B1CE-4A47-9485-649197D56660",
+      "overrideName": "56C020C0-AFA3-4F3E-9167-D1E785B15B9E_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C46A33E-1A39-4766-AA56-87BD4FBEA29F",
+      "overrideName": "B0848BB8-9123-4B48-BE90-C662FE241A17_stringValue",
+      "value": "Address Goes Here"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6D19EA9F-2932-4524-99D9-02B03470A039",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0E65CA8C-7E1D-4ECB-AA41-BCFD616BAB73",
+  "symbolID": "3B068A3E-7618-4075-B6EB-67D91D12D081",
   "verticalSpacing": 0
 }
