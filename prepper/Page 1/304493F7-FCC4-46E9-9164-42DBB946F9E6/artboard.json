@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "F967AB94-A896-4DA2-ADDA-45E4E9AEAEAF",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -50,6 +59,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "5D1C147E-9063-490C-AFCC-14D3623422EC"
+    },
     {
       "class": "rectangle",
       "id": "B79D5B90-9DF8-46B1-858A-57900EFB359F"

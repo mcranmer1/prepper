@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "22ACB0A7-D10C-441E-AC06-7AB569251580",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,26 +60,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4F1FD614-029E-4476-913A-1A590A130E46"
-    },
-    {
-      "class": "text",
-      "id": "D969A5B4-9287-4873-82DD-5B06AFE4AAFC"
-    },
-    {
-      "class": "text",
-      "id": "A79B7814-71FF-4C55-A7CD-D932B590F082"
-    },
-    {
-      "class": "text",
-      "id": "133A62CC-52E9-425F-8A0A-38DB30507322"
-    },
-    {
-      "class": "rectangle",
-      "id": "27F3308F-E947-4ABE-869A-E5380E013DB8"
-    },
-    {
       "class": "symbolInstance",
       "id": "7D7B648A-7452-4D0C-ADBA-1606FD891A15"
     },
@@ -99,20 +88,36 @@
       "id": "329D2A3E-E170-4720-BD93-AF6889367F16"
     },
     {
-      "class": "rectangle",
-      "id": "BE1E569A-A10A-473D-9ED9-6BCFC5AEB32A"
-    },
-    {
-      "class": "rectangle",
-      "id": "95E09FF9-1FDD-4C79-AB6F-F638EE451836"
-    },
-    {
       "class": "symbolInstance",
       "id": "55BB2829-38B3-40DB-A2CA-BC1E49E22562"
     },
     {
       "class": "symbolInstance",
       "id": "7577932E-1FE9-4ED4-BB6B-7A96D5AF208E"
+    },
+    {
+      "class": "rectangle",
+      "id": "EC1D7CD4-E0DD-4156-913E-36D5DE0E3022"
+    },
+    {
+      "class": "text",
+      "id": "6714496B-FD6D-4877-BBD4-C4308323A925"
+    },
+    {
+      "class": "text",
+      "id": "E610BAC0-A296-445E-AD4E-77A0A3301938"
+    },
+    {
+      "class": "text",
+      "id": "FDCAB568-D7F6-4AD0-953F-706E03A44410"
+    },
+    {
+      "class": "rectangle",
+      "id": "B913083C-057B-4ACE-AD62-B80760B77BFE"
+    },
+    {
+      "class": "shapePath",
+      "id": "59FCCE37-A1AF-4F1C-BE19-91CE599F5D4A"
     }
   ],
   "name": "Survery Part 2",

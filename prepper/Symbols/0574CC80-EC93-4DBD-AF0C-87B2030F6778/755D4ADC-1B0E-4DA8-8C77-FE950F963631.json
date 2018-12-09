@@ -120,5 +120,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Food",
+        "mode": "unsplash"
+      }
+    }
   }
 }

@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
+            "blue": 0.1843137254901961,
+            "green": 0.05882352941176469,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
@@ -35,11 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D969A5B4-9287-4873-82DD-5B06AFE4AAFC",
+  "do_objectID": "6714496B-FD6D-4877-BBD4-C4308323A925",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A93C0D0B-FA44-41EC-A99A-F2C5E89B2835",
+    "do_objectID": "3DFF9C87-9774-4C15-95DE-19C280324CA5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,11 +50,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "98C4F04E-B1CE-4274-B938-BCB059FE2B61",
+    "do_objectID": "1B7531A5-28C8-4E0F-9144-C410661C7C30",
     "height": 23,
     "width": 112,
-    "x": 13,
-    "y": 93
+    "x": 12,
+    "y": 92
   },
   "glyphBounds": "{{16, 4}, {81, 16}}",
   "hasClippingMask": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Part One",
+  "name": "Part One Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,19 +73,19 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D15B3A52-BB3F-4813-AA84-D5BC73BF528D",
+    "do_objectID": "E29E7525-E49C-4C82-8872-0154665475E5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E7E2CDE8-9C60-4AF6-A90C-0CD75C8B4D1C",
+      "do_objectID": "09D57559-AB21-485D-BA7D-BF67FB528DD0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
+          "blue": 0.1843137254901961,
+          "green": 0.05882352941176469,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {

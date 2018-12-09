@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DCB5E71-B7B9-4017-9AF9-451052656A03",
+  "do_objectID": "5D1C147E-9063-490C-AFCC-14D3623422EC",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D9973CFB-EC2E-4BAB-BC84-A5F9D0EA8D14",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2CE38893-94EE-4DB8-944A-7972AC3BE413",
-    "height": 56,
+    "height": 812,
     "width": 375,
     "x": 0,
-    "y": 79
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -100,7 +98,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "D4C3B432-9001-4832-BF75-AC3FE775DB43",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,11 +105,16 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9063031462585034,
-          "green": 0.9063031462585034,
-          "red": 0.9063031462585034
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/6d76e046e0341b0f9c4d937e880ae9f3d983cac7.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +125,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Food",
+        "mode": "unsplash"
+      }
+    }
   }
 }

@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 183,
-    "width": 319,
-    "x": 28,
+    "height": 970,
+    "width": 320,
+    "x": 27,
     "y": 611
   },
   "hasClickThrough": false,
@@ -72,6 +72,14 @@
     {
       "class": "rectangle",
       "id": "08903B5F-F83B-45A9-A5D5-8D0E6259DA0E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D887BA6C-91C9-4F1E-A5D6-D795626A937A"
+    },
+    {
+      "class": "rectangle",
+      "id": "360FF92B-0D4A-46E5-946D-44EF2B5BADAB"
     }
   ],
   "name": "Inputs Copy 4",

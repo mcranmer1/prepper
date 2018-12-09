@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "36A47E1D-AFC7-4A1F-AED1-140600CC32C2",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -50,26 +59,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "4DCB5E71-B7B9-4017-9AF9-451052656A03"
-    },
-    {
-      "class": "text",
-      "id": "7B977BF6-2532-47D2-8D61-4537BD09531F"
-    },
-    {
-      "class": "text",
-      "id": "FF51C21C-A5B1-4A19-AFB1-57735189731E"
-    },
-    {
-      "class": "text",
-      "id": "3E9C0AF9-09C4-46E9-927F-21BAE4C2A951"
-    },
-    {
-      "class": "rectangle",
-      "id": "0AE16D41-C9AF-4F6D-B3C8-84CE16B74E02"
-    },
     {
       "class": "symbolInstance",
       "id": "09876704-0320-49C3-BB6B-06942ADD0E69"
@@ -204,6 +193,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "9A50930F-C156-44EB-A4F2-AA399BF2CF3C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "37F46CD2-AEB4-48DE-8DD5-DBFC4D4A79D6"
     },
     {
@@ -217,14 +210,6 @@
     {
       "class": "symbolInstance",
       "id": "9F266820-3C73-494E-AAAE-8B0D151D5C23"
-    },
-    {
-      "class": "oval",
-      "id": "72BEC952-91AB-4E25-9918-BF814732B796"
-    },
-    {
-      "class": "shapePath",
-      "id": "0F0F20AE-CDB4-4BC8-9A4D-4E7B2D413E34"
     },
     {
       "class": "shapePath",
@@ -241,6 +226,30 @@
     {
       "class": "text",
       "id": "CFF5A967-52F7-43E4-A822-DCCC4CA7945F"
+    },
+    {
+      "class": "rectangle",
+      "id": "C2E031C0-8C51-411D-BA83-0E09F09FC124"
+    },
+    {
+      "class": "text",
+      "id": "DCB8001A-BB62-4431-9972-F9F9888F17B2"
+    },
+    {
+      "class": "text",
+      "id": "D104E745-29A7-4717-9658-16002DFF523D"
+    },
+    {
+      "class": "text",
+      "id": "E922A098-6734-4CD5-9163-2FC0CF80B3B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "3C8C1B31-9181-4284-9118-CA98EF1A95D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "54611E39-AF5F-41FA-9623-29F1CC61FC4D"
     }
   ],
   "name": "Survery Part 3",

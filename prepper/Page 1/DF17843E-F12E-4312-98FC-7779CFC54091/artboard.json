@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "47CF34F2-33A7-4308-93BE-229DA9755AE7",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -117,6 +126,10 @@
     {
       "class": "symbolInstance",
       "id": "2ED976D5-605B-41DE-8773-AEB11D583A8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "408EB42D-4275-4DCB-B9D5-F504CB898520"
     }
   ],
   "name": "Survery Part 1",
