@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9184BE4B-A0EA-4493-AD21-0C9C866F8D01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1433ACB8-C8EA-4B5A-AFDA-F2BBD9E4ED9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10C71FF9-9A9C-4236-94DE-8287AE5362E9",
+    "height": 162,
+    "width": 320,
+    "x": 28,
+    "y": 819
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "groceries copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB75B723-CB07-44E9-AD85-5B5CF4BA0F59",
+      "overrideName": "77C78829-E5E0-4978-8BE9-BB79C61EE45E_stringValue",
+      "value": "Starch"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "798716C3-A668-4655-9D58-167AAD584AB5",
+      "overrideName": "4828620D-1B77-4E8D-BD43-59B653287A88_stringValue",
+      "value": "Quinoa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAA2934A-1091-4FA3-BCB3-3BBE54FEE47E",
+      "overrideName": "042E56C5-BE45-48A2-A5DD-F270329540F9_stringValue",
+      "value": "1 pack"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71F79409-9406-4CCD-BB38-28873490BCAF",
+      "overrideName": "3AA45712-07B7-4E5F-A51E-6B0DFECC1152_stringValue",
+      "value": "Sweet Potatoes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0873D831-9286-4D5D-A707-68D11E5090AA",
+      "overrideName": "28B2F91F-37F8-4087-9585-CC354FC2F8AA_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48DC91F0-D9DB-4991-8210-EA6AFD18CD28",
+      "overrideName": "54D9AA86-7BEF-4F76-9FFC-10730AFD9195_stringValue",
+      "value": "Steel Cut Oats"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "857301EE-A17D-4CA9-9983-EF991E771943",
+      "overrideName": "7F12CEC9-EEFC-4C67-A339-A04679FC0F18_stringValue",
+      "value": "10"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA1865B1-9AC7-450C-A6AA-A47F0910C37F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "97777FC7-C31A-4E73-828D-E2B62ABA6449",
+  "verticalSpacing": 0
+}

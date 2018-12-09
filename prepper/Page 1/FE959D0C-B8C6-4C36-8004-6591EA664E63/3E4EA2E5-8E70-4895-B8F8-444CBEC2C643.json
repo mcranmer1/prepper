@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E4EA2E5-8E70-4895-B8F8-444CBEC2C643",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6C55012-3950-46F9-B0EF-747AAED123C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E68F327-798E-4F5B-BF45-53219CB271A7",
+    "height": 162,
+    "width": 320,
+    "x": 28,
+    "y": 445
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "groceries copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB75B723-CB07-44E9-AD85-5B5CF4BA0F59",
+      "overrideName": "77C78829-E5E0-4978-8BE9-BB79C61EE45E_stringValue",
+      "value": "Vegetables"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "798716C3-A668-4655-9D58-167AAD584AB5",
+      "overrideName": "4828620D-1B77-4E8D-BD43-59B653287A88_stringValue",
+      "value": "Broccoli"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAA2934A-1091-4FA3-BCB3-3BBE54FEE47E",
+      "overrideName": "042E56C5-BE45-48A2-A5DD-F270329540F9_stringValue",
+      "value": "3 stalks"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71F79409-9406-4CCD-BB38-28873490BCAF",
+      "overrideName": "3AA45712-07B7-4E5F-A51E-6B0DFECC1152_stringValue",
+      "value": "Red Pepper"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0873D831-9286-4D5D-A707-68D11E5090AA",
+      "overrideName": "28B2F91F-37F8-4087-9585-CC354FC2F8AA_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48DC91F0-D9DB-4991-8210-EA6AFD18CD28",
+      "overrideName": "54D9AA86-7BEF-4F76-9FFC-10730AFD9195_stringValue",
+      "value": "Green Beans"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "857301EE-A17D-4CA9-9983-EF991E771943",
+      "overrideName": "7F12CEC9-EEFC-4C67-A339-A04679FC0F18_stringValue",
+      "value": "1 pack"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42973EEA-11F0-4709-8B5A-EE246CCD3F7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "97777FC7-C31A-4E73-828D-E2B62ABA6449",
+  "verticalSpacing": 0
+}

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
-              "size": 20
+              "name": "LucidaGrande-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -30,16 +30,16 @@
         "location": 0
       }
     ],
-    "string": "Dinner"
+    "string": "14 oz."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7789CF3E-3FD9-4591-975C-1F9777C149C1",
+  "do_objectID": "28B2F91F-37F8-4087-9585-CC354FC2F8AA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "48A37D1D-8058-4386-8B9B-1853CEFF628B",
+    "do_objectID": "0E776152-A6D8-4364-A66E-2141B8421374",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CFD87009-84B8-42D2-9229-226700E914C4",
-    "height": 23,
-    "width": 112,
-    "x": 251,
-    "y": 92
+    "do_objectID": "92F2F992-0023-4367-86EF-3E2A8C7EDACB",
+    "height": 17,
+    "width": 90,
+    "x": 175,
+    "y": 96
   },
-  "glyphBounds": "{{25, 4}, {64, 16}}",
+  "glyphBounds": "{{25, 3}, {42, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Dinner",
+  "name": "14 oz.",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FAAC95C1-474D-482B-8371-C687376B1B8C",
+    "do_objectID": "8EDEF433-720E-4509-B0F5-F1AF97406A51",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "920D3867-B010-4D49-8E04-600F8B38F16C",
+      "do_objectID": "DCA92779-678E-497C-AA3E-92228D8785D1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +91,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
-            "size": 20
+            "name": "LucidaGrande-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {

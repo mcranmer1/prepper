@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
+              "name": "Georgia",
               "size": 18
             }
           },
@@ -52,9 +52,9 @@
     "height": 27,
     "width": 209,
     "x": 83,
-    "y": 538
+    "y": 548
   },
-  "glyphBounds": "{{13, 4}, {182, 15}}",
+  "glyphBounds": "{{12, 3}, {185, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -103,7 +103,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
+            "name": "Georgia",
             "size": 18
           }
         },

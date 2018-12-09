@@ -2,10 +2,11 @@
   "_class": "triangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F53B3B51-1288-4273-8ACD-156F7901CE0F",
+  "do_objectID": "0A0B4938-7513-4276-B0AA-791D0651629D",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "23CB2BF0-E7B2-4851-9E2A-A6841C4BD006",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92.7265625,
-    "width": 111.0019531249998,
+    "do_objectID": "F70412ED-3B2B-4AD7-9C6F-710D982B6A3A",
+    "height": 83.77734374999997,
+    "width": 97.486328125,
     "x": 0,
-    "y": -1
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -37,32 +39,32 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0000000000000042, 1.2347244018074038e-17}",
+      "curveFrom": "{1.0000000000000009, 0}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000042, 1.2347244018074038e-17}",
+      "curveTo": "{1.0000000000000009, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000042, 1.2347244018074038e-17}"
+      "point": "{1.0000000000000009, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.99999999999999989}",
+      "curveFrom": "{0, 1.0000000000000002}",
       "curveMode": 1,
-      "curveTo": "{0, 0.99999999999999989}",
+      "curveTo": "{0, 1.0000000000000002}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.99999999999999989}"
+      "point": "{0, 1.0000000000000002}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.457167719820518e-16, 0.0053921981632825073}",
+      "curveFrom": "{0, -7.6801167291906046e-18}",
       "curveMode": 1,
-      "curveTo": "{1.457167719820518e-16, 0.0053921981632825073}",
+      "curveTo": "{0, -7.6801167291906046e-18}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.457167719820518e-16, 0.0053921981632825194}"
+      "point": "{0, 0}"
     }
   ],
   "resizingConstraint": 63,
@@ -87,6 +89,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "C8CD8D76-1E7B-4541-8A44-B2CE2E198087",
     "endMarkerType": 0,
     "fills": [
       {

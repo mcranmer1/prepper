@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BF06FD95-B256-4109-B2E5-3B6ED192BDB5",
+  "do_objectID": "45A8C9A4-8F11-4E53-BB66-80238E2B82A2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9388FE13-3EA4-42D2-9610-20F18B83B5A4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 265,
-    "width": 330,
-    "x": 23,
-    "y": 193
+    "do_objectID": "FB76D5D2-A7C3-4035-95EF-EAF47E3A9C11",
+    "height": 22,
+    "width": 38,
+    "x": 25,
+    "y": 159
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Recipe Card",
+  "name": "Filter Copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8EC94E86-D60A-4AEA-919F-9BD2D5C847E4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB5AD33C-D8FE-4D64-B9EF-1EA8B57FAA24",
+  "symbolID": "7B87AD78-DFF3-46B4-BDEF-C2FBF01B7E0B",
   "verticalSpacing": 0
 }

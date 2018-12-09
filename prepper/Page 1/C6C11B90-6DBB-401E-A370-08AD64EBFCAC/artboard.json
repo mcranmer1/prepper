@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "671356E5-6395-4FB2-9636-3124081360BA",
+    "do_objectID": "4FAE81EF-EEF7-4AFA-866E-3EC194CD724D",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "43DA5BE9-6863-489D-9F4F-50EABF70AA77",
+  "do_objectID": "C6C11B90-6DBB-401E-A370-08AD64EBFCAC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B4108EBD-17B4-40C3-BAE5-C2F9798153E6",
+    "do_objectID": "9930F722-64BF-4172-A036-0C771C7BBA1E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D92F941F-BA7B-4F54-927F-2C77A63E1D29",
+    "do_objectID": "66CCB602-7878-478E-89BD-1EF265473E2C",
     "height": 812,
     "width": 375,
-    "x": 2999,
-    "y": 1022
+    "x": 3300,
+    "y": 10
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "75B1EC65-2C0E-409B-85C7-0D0581A4413A",
+    "do_objectID": "7120D332-7539-4AE6-9660-96A4054A9D8D",
     "guides": [
     ]
   },
@@ -48,47 +48,55 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "62CFA563-5235-41FA-A72E-231D87FB1A67"
+      "id": "4A00226E-9AA4-4FE0-B49D-712A33F39569"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86C98D03-6FAB-4DF4-A2A6-D07BFB153C11"
     },
     {
       "class": "text",
-      "id": "63167719-6756-4BC7-97D4-05C36F954BFB"
+      "id": "29C0A162-A9A0-4865-9812-837830FFE480"
     },
     {
       "class": "text",
-      "id": "5C8EC981-B87A-42B1-B1EE-291952CC2555"
+      "id": "7A369A48-6C17-49BF-8E29-A3B1A116E82F"
     },
     {
       "class": "text",
-      "id": "7789CF3E-3FD9-4591-975C-1F9777C149C1"
+      "id": "5AE89911-62A1-4203-A0BE-13C77C40861A"
     },
     {
-      "class": "rectangle",
-      "id": "D92746E4-73D7-4C7F-8145-838CF073E92D"
+      "class": "text",
+      "id": "A3F95816-7C68-4AC3-9C6B-44E5ED1F624E"
     },
     {
-      "class": "symbolInstance",
-      "id": "BF06FD95-B256-4109-B2E5-3B6ED192BDB5"
+      "class": "text",
+      "id": "74EAAD5A-14A7-4228-A621-F6EA53A48E4D"
     },
     {
-      "class": "symbolInstance",
-      "id": "EE9F979C-BE73-4BB2-9ED9-7E34713DB329"
+      "class": "text",
+      "id": "7B15B84C-A9BA-49D1-AEE2-6C4C04044CF2"
     },
     {
-      "class": "symbolInstance",
-      "id": "02275471-AFBF-48BF-BF84-B463A9994A5A"
+      "class": "shapePath",
+      "id": "8F6C8CDD-055B-4FF8-83AF-42E553F1C941"
     },
     {
-      "class": "symbolInstance",
-      "id": "9B3FB9E6-C153-4E48-874E-6B186089C993"
+      "class": "shapePath",
+      "id": "78163820-BA96-47CB-B401-CB7CD029DEF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "01C0FEE5-6F8B-4392-B535-D41E5B377A52"
     }
   ],
-  "name": "iPhone XS Copy",
-  "nameIsFixed": false,
+  "name": "Meal Prep Ready Copy",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,
@@ -103,7 +111,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "0964B758-ED8A-4895-B9A9-1CBEA2F7591F",
+    "do_objectID": "BAB6906D-0BDF-4B61-9998-9ACA9B7159AD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -112,7 +120,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "57D4AE03-0508-46A1-A296-772394DE9EBB",
+    "do_objectID": "05C13101-B3D5-4818-A93C-2C99055DE8E0",
     "guides": [
     ]
   }

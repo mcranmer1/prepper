@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 1265,
     "width": 375,
-    "x": 1532,
+    "x": 1974,
     "y": 10
   },
   "hasBackgroundColor": false,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -87,7 +87,7 @@
       "id": "BB389A2B-1CAB-41EC-A764-F67E9F6ED759"
     }
   ],
-  "name": "Main Page",
+  "name": "Meal Prep",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

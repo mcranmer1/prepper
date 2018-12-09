@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Lunch"
+    "string": "Meal Prep"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5C8EC981-B87A-42B1-B1EE-291952CC2555",
+  "do_objectID": "1D521727-15CB-4255-9FF3-882FABB7A28F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CC3A3652-2DBF-44E3-AAA2-E083EF847072",
+    "do_objectID": "3FB817AA-F90A-4B68-83CB-0C05E0877BA8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0FA3BA7B-0F3D-4FF2-BD58-6BC66C0D1892",
+    "do_objectID": "3655319C-6CCC-4056-84D3-43E4FA31DA98",
     "height": 23,
     "width": 112,
-    "x": 132,
+    "x": 13,
     "y": 92
   },
-  "glyphBounds": "{{28, 3}, {56, 17}}",
+  "glyphBounds": "{{10, 3}, {93, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lunch",
+  "name": "Meal Prep",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2D9ADE8C-E9AB-4724-9725-25EDA217F333",
+    "do_objectID": "8CD9A23F-6D7A-42BE-BA8F-BE503D9E4422",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "09C2A8B2-4318-4FA8-B75E-A1932F2F02AE",
+      "do_objectID": "EDFAA4FE-2AB8-411D-B05A-3CA91E409DB0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

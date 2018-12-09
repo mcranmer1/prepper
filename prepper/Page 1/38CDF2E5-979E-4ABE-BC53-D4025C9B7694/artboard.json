@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "52E3C5ED-CA58-4594-9312-376E70C89579",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38CDF2E5-979E-4ABE-BC53-D4025C9B7694",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20F405A0-2EE2-41B2-88E6-289EAA401BE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFC46368-8CF6-4472-AED5-366A9F146B37",
+    "height": 1406,
+    "width": 375,
+    "x": 2858,
+    "y": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1D56852-F290-444B-9509-12276173AF19",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DF5926E3-08E9-48F6-A527-E93BD3A520CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "381C1F0A-461B-475D-BE23-089429497F41"
+    },
+    {
+      "class": "text",
+      "id": "1D521727-15CB-4255-9FF3-882FABB7A28F"
+    },
+    {
+      "class": "text",
+      "id": "D3B7CA3A-2C8F-430F-97E7-6E6F47DF4D80"
+    },
+    {
+      "class": "text",
+      "id": "A093AAA1-E364-4EE3-8A63-85CAFFECB2D8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F84416AD-5FC6-4F43-B683-9E087A34AF30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E4D9440-D647-4646-9CB4-35F6EB5050E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF06FD95-B256-4109-B2E5-3B6ED192BDB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A5A8753-25A0-48B1-9AEF-4B7834A3CAAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB1EEABE-9038-439C-8864-FD915176865B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34240D9B-9FCC-4276-93B8-506CBFA9F040"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45A8C9A4-8F11-4E53-BB66-80238E2B82A2"
+    }
+  ],
+  "name": "Cookbook",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "028002E4-13A4-49C1-9F43-E6F66E1CE2BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB960786-8AD0-4BF8-85AF-74C0568F2DEB",
+    "guides": [
+    ]
+  }
+}
