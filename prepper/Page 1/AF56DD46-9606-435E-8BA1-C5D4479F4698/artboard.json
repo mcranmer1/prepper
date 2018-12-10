@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7730C384-F27B-472F-AE72-244D7B203EE7",
-    "height": 1521,
+    "height": 1680,
     "width": 375,
     "x": 1090,
     "y": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,6 +66,14 @@
     {
       "class": "symbolInstance",
       "id": "E3A0E59B-C180-4CB0-AF5C-140089075C7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7B5713F-89AB-4813-9AD5-A1A50B502C99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09E1CC50-5156-4CFB-8732-BFCA291CF0DE"
     },
     {
       "class": "symbolInstance",
@@ -113,10 +121,6 @@
     },
     {
       "class": "text",
-      "id": "D2137193-04DE-47CA-81FD-309BCF6E0CC5"
-    },
-    {
-      "class": "text",
       "id": "5A3C5E86-4B08-4E3A-A81F-71BD89B992C6"
     },
     {
@@ -137,14 +141,6 @@
     },
     {
       "class": "shapePath",
-      "id": "7974DBE0-ABB8-4AC1-B83D-E94B11D65858"
-    },
-    {
-      "class": "shapePath",
-      "id": "201223AE-83A4-46E3-B9DD-D43B25DEDE44"
-    },
-    {
-      "class": "shapePath",
       "id": "82E661EC-CC53-4B3A-98CD-5A17F11BD68C"
     },
     {
@@ -162,10 +158,6 @@
     {
       "class": "shapePath",
       "id": "AD24FAB7-7B5A-439B-B652-8CA892B8CAA5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E1343E7D-6001-46D7-BB45-5E2E45A6AC8D"
     },
     {
       "class": "symbolInstance",
@@ -214,22 +206,6 @@
     {
       "class": "symbolInstance",
       "id": "9F266820-3C73-494E-AAAE-8B0D151D5C23"
-    },
-    {
-      "class": "shapePath",
-      "id": "C6221843-816A-4F90-80D9-0861D720E8D6"
-    },
-    {
-      "class": "shapePath",
-      "id": "27AE9E5E-8335-4892-97C6-A78DC5B7B8DD"
-    },
-    {
-      "class": "shapePath",
-      "id": "A5B4CEB6-48B6-4BE1-98D7-93750D1B0601"
-    },
-    {
-      "class": "text",
-      "id": "CFF5A967-52F7-43E4-A822-DCCC4CA7945F"
     },
     {
       "class": "rectangle",

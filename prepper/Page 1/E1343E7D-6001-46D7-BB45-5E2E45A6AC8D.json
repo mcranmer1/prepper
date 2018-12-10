@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EFF533B3-7A10-42EA-B869-A9CB5CB4E121",
+  "do_objectID": "E1343E7D-6001-46D7-BB45-5E2E45A6AC8D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "881608D6-18E2-4163-840C-826E29C701FB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8F0DA451-519C-4EE0-A80A-FD73CA9AAD31",
-    "height": 67,
-    "width": 321,
-    "x": 27,
-    "y": 612
+    "height": 21,
+    "width": 21,
+    "x": 1408,
+    "y": 1545
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,21 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Review Copy 3",
+  "name": "plus",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
-      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
-      "value": "Height"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
-      "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
-      "value": "70cm"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0C6F8804-C805-4FD3-B3AF-CAE2EFCF356A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "144E481D-FDE4-4C38-9CE2-FAF6E26FED63",
+  "symbolID": "A3456F93-5584-47A1-AC9B-5A6C38F28264",
   "verticalSpacing": 0
 }

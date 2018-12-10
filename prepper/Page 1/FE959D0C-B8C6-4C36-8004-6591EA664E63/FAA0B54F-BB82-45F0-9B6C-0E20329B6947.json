@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E1343E7D-6001-46D7-BB45-5E2E45A6AC8D",
+  "do_objectID": "FAA0B54F-BB82-45F0-9B6C-0E20329B6947",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5AFC6F38-9FEE-43B3-B2E8-93EEB5224529",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 21,
-    "x": 318,
-    "y": 1370
+    "do_objectID": "FBC51A7B-DBCC-43E4-912A-69CC7E45C660",
+    "height": 23,
+    "width": 83,
+    "x": 266,
+    "y": 270
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "plus",
+  "name": "edit prep",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E244E9A-6D98-4947-B58E-FAB382F4B40A",
+      "overrideName": "993F56F3-D4BA-419A-8F9E-A3AE24D33124_stringValue",
+      "value": "Add"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B4AEADFA-F18D-4A30-B787-98019080F9CE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A3456F93-5584-47A1-AC9B-5A6C38F28264",
+  "symbolID": "1ADB81D1-F841-4931-B65B-C14AABD87FF5",
   "verticalSpacing": 0
 }

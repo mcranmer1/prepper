@@ -107,6 +107,38 @@
     {
       "class": "rectangle",
       "id": "7E2757E1-25A3-4FA7-ACFF-E5EE8DE6B393"
+    },
+    {
+      "class": "shapePath",
+      "id": "201223AE-83A4-46E3-B9DD-D43B25DEDE44"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6221843-816A-4F90-80D9-0861D720E8D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "27AE9E5E-8335-4892-97C6-A78DC5B7B8DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5B4CEB6-48B6-4BE1-98D7-93750D1B0601"
+    },
+    {
+      "class": "text",
+      "id": "CFF5A967-52F7-43E4-A822-DCCC4CA7945F"
+    },
+    {
+      "class": "text",
+      "id": "D2137193-04DE-47CA-81FD-309BCF6E0CC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7974DBE0-ABB8-4AC1-B83D-E94B11D65858"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1343E7D-6001-46D7-BB45-5E2E45A6AC8D"
     }
   ],
   "name": "Page 1",

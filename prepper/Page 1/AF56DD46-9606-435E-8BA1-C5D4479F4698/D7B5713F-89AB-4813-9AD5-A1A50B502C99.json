@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EFF533B3-7A10-42EA-B869-A9CB5CB4E121",
+  "do_objectID": "D7B5713F-89AB-4813-9AD5-A1A50B502C99",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "881608D6-18E2-4163-840C-826E29C701FB",
+    "do_objectID": "0625F2C7-7365-45D2-8EA5-539499DD0A2D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8F0DA451-519C-4EE0-A80A-FD73CA9AAD31",
+    "do_objectID": "0E30BB00-AD8D-45F1-A27C-7AEB84596395",
     "height": 67,
     "width": 321,
     "x": 27,
-    "y": 612
+    "y": 261
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,20 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Review Copy 3",
+  "name": "Review Copy 11",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7588CCE-1561-4E3F-AF5E-F0F671F57C18",
+      "do_objectID": "C93FE584-EA58-44A2-B1E1-A12BC5DB5B63",
       "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/1DAA4E9E-49FF-4B69-811B-FD3F26324D96_stringValue",
-      "value": "Height"
+      "value": "Email"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4B362A6B-2A9C-4BAA-B964-670C0FCE6C88",
+      "do_objectID": "37D57610-9CCF-4AF2-9D51-B4A0F9869A36",
       "overrideName": "2E0156D1-1B3D-40BA-B8D9-10A8C0F3D6B2/AEC9DF4D-B013-4AA0-A647-D8B0766790FD_stringValue",
-      "value": "70cm"
+      "value": "johnsmith@gmail.com"
     }
   ],
   "resizingConstraint": 63,
@@ -53,7 +53,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0C6F8804-C805-4FD3-B3AF-CAE2EFCF356A",
+    "do_objectID": "6BC3BFA8-5FAA-4F55-BD76-26D219B7FE71",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

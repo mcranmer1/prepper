@@ -118,6 +118,10 @@
     {
       "class": "shapePath",
       "id": "6BA9A815-B411-4E02-8549-F4542852F020"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAA0B54F-BB82-45F0-9B6C-0E20329B6947"
     }
   ],
   "name": "Groceries",
